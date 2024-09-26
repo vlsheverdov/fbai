@@ -1,0 +1,381 @@
+home_team,away_team,score_home,score_away,status,season
+Athletic Club,Getafe,1,1,Match Finished,2024
+Real Betis,Girona,1,1,Match Finished,2024
+Celta Vigo,Alaves,2,1,Match Finished,2024
+Las Palmas,Sevilla,2,2,Match Finished,2024
+Osasuna,Leganes,1,1,Match Finished,2024
+Valencia,Barcelona,1,2,Match Finished,2024
+Real Sociedad,Rayo Vallecano,1,2,Match Finished,2024
+Mallorca,Real Madrid,1,1,Match Finished,2024
+Valladolid,Espanyol,1,0,Match Finished,2024
+Villarreal,Atletico Madrid,2,2,Match Finished,2024
+Celta Vigo,Valencia,3,1,Match Finished,2024
+Sevilla,Villarreal,1,2,Match Finished,2024
+Osasuna,Mallorca,1,0,Match Finished,2024
+Barcelona,Athletic Club,2,1,Match Finished,2024
+Getafe,Rayo Vallecano,0,0,Match Finished,2024
+Espanyol,Real Sociedad,0,1,Match Finished,2024
+Real Madrid,Valladolid,3,0,Match Finished,2024
+Leganes,Las Palmas,2,1,Match Finished,2024
+Alaves,Real Betis,0,0,Match Finished,2024
+Atletico Madrid,Girona,3,0,Match Finished,2024
+Villarreal,Celta Vigo,4,3,Match Finished,2024
+Mallorca,Sevilla,0,0,Match Finished,2024
+Rayo Vallecano,Barcelona,1,2,Match Finished,2024
+Athletic Club,Valencia,1,0,Match Finished,2024
+Valladolid,Leganes,0,0,Match Finished,2024
+Real Sociedad,Alaves,1,2,Match Finished,2024
+Atletico Madrid,Espanyol,0,0,Match Finished,2024
+Girona,Osasuna,4,0,Match Finished,2024
+Las Palmas,Real Madrid,1,1,Match Finished,2024
+Real Betis,Getafe,2,1,Match Finished,2024
+Barcelona,Valladolid,7,0,Match Finished,2024
+Athletic Club,Atletico Madrid,0,1,Match Finished,2024
+Espanyol,Rayo Vallecano,2,1,Match Finished,2024
+Valencia,Villarreal,1,1,Match Finished,2024
+Leganes,Mallorca,0,1,Match Finished,2024
+Alaves,Las Palmas,2,0,Match Finished,2024
+Osasuna,Celta Vigo,3,2,Match Finished,2024
+Sevilla,Girona,0,2,Match Finished,2024
+Getafe,Real Sociedad,0,0,Match Finished,2024
+Real Madrid,Real Betis,2,0,Match Finished,2024
+Real Betis,Leganes,2,0,Finished,2024
+Mallorca,Villarreal,1,2,Match Finished,2024
+Espanyol,Alaves,3,2,Match Finished,2024
+Sevilla,Getafe,1,0,Match Finished,2024
+Real Sociedad,Real Madrid,0,2,Match Finished,2024
+Celta Vigo,Valladolid,3,1,Match Finished,2024
+Girona,Barcelona,1,4,Match Finished,2024
+Las Palmas,Athletic Club,2,3,Match Finished,2024
+Atletico Madrid,Valencia,3,0,Match Finished,2024
+Rayo Vallecano,Osasuna,3,1,Match Finished,2024
+Alaves,Sevilla,2,1,Match Finished,2024
+Valladolid,Real Sociedad,0,0,Match Finished,2024
+Osasuna,Las Palmas,2,1,Match Finished,2024
+Valencia,Girona,2,0,Match Finished,2024
+Real Madrid,Espanyol,4,1,Match Finished,2024
+Getafe,Leganes,1,1,Match Finished,2024
+Athletic Club,Celta Vigo,3,1,Match Finished,2024
+Villarreal,Barcelona,1,5,Match Finished,2024
+Rayo Vallecano,Atletico Madrid,1,1,Match Finished,2024
+Real Betis,Mallorca,1,2,Match Finished,2024
+Mallorca,Real Sociedad,1,0,Match Finished,2024
+Leganes,Athletic Club,,,Scheduled,2024
+Barcelona,Getafe,,,Scheduled,2024
+Girona,Rayo Vallecano,,,Scheduled,2024
+Sevilla,Valladolid,2,1,Match Finished,2024
+Espanyol,Villarreal,,,Scheduled,2024
+Celta Vigo,Atletico Madrid,,,Scheduled,2024
+Las Palmas,Real Betis,,,Scheduled,2024
+Valencia,Osasuna,0,0,Match Finished,2024
+Real Madrid,Alaves,3,2,Match Finished,2024
+Athletic Club,Sevilla,,,Scheduled,2024
+Atletico Madrid,Real Madrid,,,Scheduled,2024
+Celta Vigo,Girona,,,Scheduled,2024
+Real Sociedad,Valencia,,,Scheduled,2024
+Osasuna,Barcelona,,,Scheduled,2024
+Valladolid,Mallorca,,,Scheduled,2024
+Villarreal,Las Palmas,,,Scheduled,2024
+Getafe,Alaves,,,Scheduled,2024
+Rayo Vallecano,Leganes,,,Scheduled,2024
+Real Betis,Espanyol,,,Scheduled,2024
+Getafe,Osasuna,,,Scheduled,2024
+Real Madrid,Villarreal,,,Scheduled,2024
+Alaves,Barcelona,,,Scheduled,2024
+Leganes,Valencia,,,Scheduled,2024
+Espanyol,Mallorca,,,Scheduled,2024
+Girona,Athletic Club,,,Scheduled,2024
+Real Sociedad,Atletico Madrid,,,Scheduled,2024
+Sevilla,Real Betis,,,Scheduled,2024
+Las Palmas,Celta Vigo,,,Scheduled,2024
+Valladolid,Rayo Vallecano,,,Scheduled,2024
+Atletico Madrid,Leganes,,,Scheduled,2024
+Barcelona,Sevilla,,,Scheduled,2024
+Celta Vigo,Real Madrid,,,Scheduled,2024
+Girona,Real Sociedad,,,Scheduled,2024
+Mallorca,Rayo Vallecano,,,Scheduled,2024
+Alaves,Valladolid,,,Scheduled,2024
+Osasuna,Real Betis,,,Scheduled,2024
+Villarreal,Getafe,,,Scheduled,2024
+Valencia,Las Palmas,,,Scheduled,2024
+Athletic Club,Espanyol,,,Scheduled,2024
+Getafe,Valencia,,,Scheduled,2024
+Espanyol,Sevilla,,,Scheduled,2024
+Mallorca,Athletic Club,,,Scheduled,2024
+Real Betis,Atletico Madrid,,,Scheduled,2024
+Real Madrid,Barcelona,,,Scheduled,2024
+Leganes,Celta Vigo,,,Scheduled,2024
+Las Palmas,Girona,,,Scheduled,2024
+Real Sociedad,Osasuna,,,Scheduled,2024
+Valladolid,Villarreal,,,Scheduled,2024
+Rayo Vallecano,Alaves,,,Scheduled,2024
+Athletic Club,Real Betis,,,Scheduled,2024
+Atletico Madrid,Las Palmas,,,Scheduled,2024
+Celta Vigo,Getafe,,,Scheduled,2024
+Girona,Leganes,,,Scheduled,2024
+Osasuna,Valladolid,,,Scheduled,2024
+Alaves,Mallorca,,,Scheduled,2024
+Villarreal,Rayo Vallecano,,,Scheduled,2024
+Valencia,Real Madrid,,,Scheduled,2024
+Sevilla,Real Sociedad,,,Scheduled,2024
+Barcelona,Espanyol,,,Scheduled,2024
+Real Betis,Celta Vigo,,,Scheduled,2024
+Getafe,Girona,,,Scheduled,2024
+Leganes,Sevilla,,,Scheduled,2024
+Espanyol,Valencia,,,Scheduled,2024
+Valladolid,Athletic Club,,,Scheduled,2024
+Mallorca,Atletico Madrid,,,Scheduled,2024
+Real Sociedad,Barcelona,,,Scheduled,2024
+Real Madrid,Osasuna,,,Scheduled,2024
+Rayo Vallecano,Las Palmas,,,Scheduled,2024
+Villarreal,Alaves,,,Scheduled,2024
+Athletic Club,Real Sociedad,,,Scheduled,2024
+Getafe,Valladolid,,,Scheduled,2024
+Osasuna,Villarreal,,,Scheduled,2024
+Las Palmas,Mallorca,,,Scheduled,2024
+Leganes,Real Madrid,,,Scheduled,2024
+Celta Vigo,Barcelona,,,Scheduled,2024
+Valencia,Real Betis,,,Scheduled,2024
+Sevilla,Rayo Vallecano,,,Scheduled,2024
+Atletico Madrid,Alaves,,,Scheduled,2024
+Girona,Espanyol,,,Scheduled,2024
+Barcelona,Las Palmas,,,Scheduled,2024
+Mallorca,Valencia,,,Scheduled,2024
+Alaves,Leganes,,,Scheduled,2024
+Espanyol,Celta Vigo,,,Scheduled,2024
+Rayo Vallecano,Athletic Club,,,Scheduled,2024
+Valladolid,Atletico Madrid,,,Scheduled,2024
+Real Sociedad,Real Betis,,,Scheduled,2024
+Real Madrid,Getafe,,,Scheduled,2024
+Villarreal,Girona,,,Scheduled,2024
+Sevilla,Osasuna,,,Scheduled,2024
+Athletic Club,Villarreal,,,Scheduled,2024
+Atletico Madrid,Sevilla,,,Scheduled,2024
+Celta Vigo,Mallorca,,,Scheduled,2024
+Girona,Real Madrid,,,Scheduled,2024
+Las Palmas,Valladolid,,,Scheduled,2024
+Leganes,Real Sociedad,,,Scheduled,2024
+Real Betis,Barcelona,,,Scheduled,2024
+Valencia,Rayo Vallecano,,,Scheduled,2024
+Osasuna,Alaves,,,Scheduled,2024
+Getafe,Espanyol,,,Scheduled,2024
+Atletico Madrid,Getafe,,,Scheduled,2024
+Barcelona,Leganes,,,Scheduled,2024
+Rayo Vallecano,Real Madrid,,,Scheduled,2024
+Alaves,Athletic Club,,,Scheduled,2024
+Espanyol,Osasuna,,,Scheduled,2024
+Villarreal,Real Betis,,,Scheduled,2024
+Sevilla,Celta Vigo,,,Scheduled,2024
+Mallorca,Girona,,,Scheduled,2024
+Valladolid,Valencia,,,Scheduled,2024
+Real Sociedad,Las Palmas,,,Scheduled,2024
+Real Betis,Rayo Vallecano,,,Scheduled,2024
+Celta Vigo,Real Sociedad,,,Scheduled,2024
+Getafe,Mallorca,,,Scheduled,2024
+Girona,Valladolid,,,Scheduled,2024
+Real Madrid,Sevilla,,,Scheduled,2024
+Leganes,Villarreal,,,Scheduled,2024
+Osasuna,Athletic Club,,,Scheduled,2024
+Barcelona,Atletico Madrid,,,Scheduled,2024
+Valencia,Alaves,,,Scheduled,2024
+Las Palmas,Espanyol,,,Scheduled,2024
+Athletic Club,Real Madrid,,,Scheduled,2024
+Atletico Madrid,Osasuna,,,Scheduled,2024
+Real Sociedad,Villarreal,,,Scheduled,2024
+Sevilla,Valencia,,,Scheduled,2024
+Alaves,Girona,,,Scheduled,2024
+Espanyol,Leganes,,,Scheduled,2024
+Mallorca,Barcelona,,,Scheduled,2024
+Valladolid,Real Betis,,,Scheduled,2024
+Rayo Vallecano,Celta Vigo,,,Scheduled,2024
+Las Palmas,Getafe,,,Scheduled,2024
+Girona,Sevilla,,,Scheduled,2024
+Osasuna,Rayo Vallecano,,,Scheduled,2024
+Espanyol,Valladolid,,,Scheduled,2024
+Celta Vigo,Athletic Club,,,Scheduled,2024
+Leganes,Atletico Madrid,,,Scheduled,2024
+Getafe,Barcelona,,,Scheduled,2024
+Villarreal,Mallorca,,,Scheduled,2024
+Valencia,Real Sociedad,,,Scheduled,2024
+Real Madrid,Las Palmas,,,Scheduled,2024
+Real Betis,Alaves,,,Scheduled,2024
+Athletic Club,Leganes,,,Scheduled,2024
+Atletico Madrid,Villarreal,,,Scheduled,2024
+Barcelona,Valencia,,,Scheduled,2024
+Las Palmas,Osasuna,,,Scheduled,2024
+Alaves,Celta Vigo,,,Scheduled,2024
+Mallorca,Real Betis,,,Scheduled,2024
+Real Sociedad,Getafe,,,Scheduled,2024
+Rayo Vallecano,Girona,,,Scheduled,2024
+Valladolid,Real Madrid,,,Scheduled,2024
+Sevilla,Espanyol,,,Scheduled,2024
+Atletico Madrid,Mallorca,,,Scheduled,2024
+Getafe,Sevilla,,,Scheduled,2024
+Girona,Las Palmas,,,Scheduled,2024
+Osasuna,Real Sociedad,,,Scheduled,2024
+Villarreal,Valladolid,,,Scheduled,2024
+Leganes,Rayo Vallecano,,,Scheduled,2024
+Espanyol,Real Madrid,,,Scheduled,2024
+Real Betis,Athletic Club,,,Scheduled,2024
+Valencia,Celta Vigo,,,Scheduled,2024
+Barcelona,Alaves,,,Scheduled,2024
+Athletic Club,Girona,,,Scheduled,2024
+Mallorca,Osasuna,,,Scheduled,2024
+Rayo Vallecano,Valladolid,,,Scheduled,2024
+Las Palmas,Villarreal,,,Scheduled,2024
+Alaves,Getafe,,,Scheduled,2024
+Real Madrid,Atletico Madrid,,,Scheduled,2024
+Sevilla,Barcelona,,,Scheduled,2024
+Celta Vigo,Real Betis,,,Scheduled,2024
+Valencia,Leganes,,,Scheduled,2024
+Real Sociedad,Espanyol,,,Scheduled,2024
+Atletico Madrid,Celta Vigo,,,Scheduled,2024
+Barcelona,Rayo Vallecano,,,Scheduled,2024
+Real Betis,Real Sociedad,,,Scheduled,2024
+Osasuna,Real Madrid,,,Scheduled,2024
+Espanyol,Athletic Club,,,Scheduled,2024
+Girona,Getafe,,,Scheduled,2024
+Valladolid,Sevilla,,,Scheduled,2024
+Villarreal,Valencia,,,Scheduled,2024
+Mallorca,Las Palmas,,,Scheduled,2024
+Leganes,Alaves,,,Scheduled,2024
+Athletic Club,Valladolid,,,Scheduled,2024
+Celta Vigo,Osasuna,,,Scheduled,2024
+Rayo Vallecano,Villarreal,,,Scheduled,2024
+Alaves,Espanyol,,,Scheduled,2024
+Valencia,Atletico Madrid,,,Scheduled,2024
+Las Palmas,Barcelona,,,Scheduled,2024
+Getafe,Real Betis,,,Scheduled,2024
+Real Madrid,Girona,,,Scheduled,2024
+Sevilla,Mallorca,,,Scheduled,2024
+Real Sociedad,Leganes,,,Scheduled,2024
+Barcelona,Real Sociedad,,,Scheduled,2024
+Real Betis,Real Madrid,,,Scheduled,2024
+Osasuna,Valencia,,,Scheduled,2024
+Rayo Vallecano,Sevilla,,,Scheduled,2024
+Atletico Madrid,Athletic Club,,,Scheduled,2024
+Girona,Celta Vigo,,,Scheduled,2024
+Leganes,Getafe,,,Scheduled,2024
+Valladolid,Las Palmas,,,Scheduled,2024
+Mallorca,Alaves,,,Scheduled,2024
+Villarreal,Espanyol,,,Scheduled,2024
+Athletic Club,Mallorca,,,Scheduled,2024
+Barcelona,Osasuna,,,Scheduled,2024
+Real Betis,Las Palmas,,,Scheduled,2024
+Celta Vigo,Leganes,,,Scheduled,2024
+Real Sociedad,Sevilla,,,Scheduled,2024
+Valencia,Valladolid,,,Scheduled,2024
+Alaves,Villarreal,,,Scheduled,2024
+Espanyol,Girona,,,Scheduled,2024
+Getafe,Atletico Madrid,,,Scheduled,2024
+Real Madrid,Rayo Vallecano,,,Scheduled,2024
+Atletico Madrid,Barcelona,,,Scheduled,2024
+Girona,Valencia,,,Scheduled,2024
+Rayo Vallecano,Real Sociedad,,,Scheduled,2024
+Sevilla,Athletic Club,,,Scheduled,2024
+Leganes,Real Betis,,,Scheduled,2024
+Valladolid,Celta Vigo,,,Scheduled,2024
+Osasuna,Getafe,,,Scheduled,2024
+Villarreal,Real Madrid,,,Scheduled,2024
+Las Palmas,Alaves,,,Scheduled,2024
+Mallorca,Espanyol,,,Scheduled,2024
+Athletic Club,Osasuna,,,Scheduled,2024
+Barcelona,Girona,,,Scheduled,2024
+Real Betis,Sevilla,,,Scheduled,2024
+Celta Vigo,Las Palmas,,,Scheduled,2024
+Getafe,Villarreal,,,Scheduled,2024
+Real Sociedad,Valladolid,,,Scheduled,2024
+Alaves,Rayo Vallecano,,,Scheduled,2024
+Espanyol,Atletico Madrid,,,Scheduled,2024
+Valencia,Mallorca,,,Scheduled,2024
+Real Madrid,Leganes,,,Scheduled,2024
+Barcelona,Real Betis,,,Scheduled,2024
+Real Madrid,Valencia,,,Scheduled,2024
+Las Palmas,Real Sociedad,,,Scheduled,2024
+Leganes,Osasuna,,,Scheduled,2024
+Villarreal,Athletic Club,,,Scheduled,2024
+Sevilla,Atletico Madrid,,,Scheduled,2024
+Mallorca,Celta Vigo,,,Scheduled,2024
+Valladolid,Getafe,,,Scheduled,2024
+Girona,Alaves,,,Scheduled,2024
+Rayo Vallecano,Espanyol,,,Scheduled,2024
+Athletic Club,Rayo Vallecano,,,Scheduled,2024
+Atletico Madrid,Valladolid,,,Scheduled,2024
+Real Betis,Villarreal,,,Scheduled,2024
+Getafe,Las Palmas,,,Scheduled,2024
+Alaves,Real Madrid,,,Scheduled,2024
+Leganes,Barcelona,,,Scheduled,2024
+Osasuna,Girona,,,Scheduled,2024
+Real Sociedad,Mallorca,,,Scheduled,2024
+Valencia,Sevilla,,,Scheduled,2024
+Celta Vigo,Espanyol,,,Scheduled,2024
+Barcelona,Celta Vigo,,,Scheduled,2024
+Rayo Vallecano,Valencia,,,Scheduled,2024
+Espanyol,Getafe,,,Scheduled,2024
+Real Madrid,Athletic Club,,,Scheduled,2024
+Las Palmas,Atletico Madrid,,,Scheduled,2024
+Girona,Real Betis,,,Scheduled,2024
+Valladolid,Osasuna,,,Scheduled,2024
+Villarreal,Real Sociedad,,,Scheduled,2024
+Sevilla,Alaves,,,Scheduled,2024
+Mallorca,Leganes,,,Scheduled,2024
+Athletic Club,Las Palmas,,,Scheduled,2024
+Atletico Madrid,Rayo Vallecano,,,Scheduled,2024
+Barcelona,Mallorca,,,Scheduled,2024
+Real Betis,Valladolid,,,Scheduled,2024
+Celta Vigo,Villarreal,,,Scheduled,2024
+Getafe,Real Madrid,,,Scheduled,2024
+Osasuna,Sevilla,,,Scheduled,2024
+Alaves,Real Sociedad,,,Scheduled,2024
+Leganes,Girona,,,Scheduled,2024
+Valencia,Espanyol,,,Scheduled,2024
+Girona,Mallorca,,,Scheduled,2024
+Las Palmas,Valencia,,,Scheduled,2024
+Alaves,Atletico Madrid,,,Scheduled,2024
+Espanyol,Real Betis,,,Scheduled,2024
+Real Sociedad,Athletic Club,,,Scheduled,2024
+Valladolid,Barcelona,,,Scheduled,2024
+Real Madrid,Celta Vigo,,,Scheduled,2024
+Rayo Vallecano,Getafe,,,Scheduled,2024
+Villarreal,Osasuna,,,Scheduled,2024
+Sevilla,Leganes,,,Scheduled,2024
+Atletico Madrid,Real Sociedad,,,Scheduled,2024
+Barcelona,Real Madrid,,,Scheduled,2024
+Real Betis,Osasuna,,,Scheduled,2024
+Celta Vigo,Sevilla,,,Scheduled,2024
+Girona,Villarreal,,,Scheduled,2024
+Mallorca,Valladolid,,,Scheduled,2024
+Las Palmas,Rayo Vallecano,,,Scheduled,2024
+Valencia,Getafe,,,Scheduled,2024
+Athletic Club,Alaves,,,Scheduled,2024
+Leganes,Espanyol,,,Scheduled,2024
+Alaves,Valencia,,,Scheduled,2024
+Espanyol,Barcelona,,,Scheduled,2024
+Getafe,Athletic Club,,,Scheduled,2024
+Osasuna,Atletico Madrid,,,Scheduled,2024
+Rayo Vallecano,Real Betis,,,Scheduled,2024
+Real Sociedad,Celta Vigo,,,Scheduled,2024
+Valladolid,Girona,,,Scheduled,2024
+Real Madrid,Mallorca,,,Scheduled,2024
+Sevilla,Las Palmas,,,Scheduled,2024
+Villarreal,Leganes,,,Scheduled,2024
+Atletico Madrid,Real Betis,,,Scheduled,2024
+Barcelona,Villarreal,,,Scheduled,2024
+Celta Vigo,Rayo Vallecano,,,Scheduled,2024
+Valencia,Athletic Club,,,Scheduled,2024
+Mallorca,Getafe,,,Scheduled,2024
+Real Sociedad,Girona,,,Scheduled,2024
+Sevilla,Real Madrid,,,Scheduled,2024
+Valladolid,Alaves,,,Scheduled,2024
+Las Palmas,Leganes,,,Scheduled,2024
+Osasuna,Espanyol,,,Scheduled,2024
+Athletic Club,Barcelona,,,Scheduled,2024
+Real Betis,Valencia,,,Scheduled,2024
+Real Madrid,Real Sociedad,,,Scheduled,2024
+Alaves,Osasuna,,,Scheduled,2024
+Leganes,Valladolid,,,Scheduled,2024
+Espanyol,Las Palmas,,,Scheduled,2024
+Girona,Atletico Madrid,,,Scheduled,2024
+Getafe,Celta Vigo,,,Scheduled,2024
+Rayo Vallecano,Mallorca,,,Scheduled,2024
+Villarreal,Sevilla,,,Scheduled,2024

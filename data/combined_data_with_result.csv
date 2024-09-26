@@ -1,0 +1,1901 @@
+home_team,away_team,score_home,score_away,status,season,result
+Alaves,Real Madrid,1.0,4.0,Match Finished,2021,away_win
+Barcelona,Real Sociedad,4.0,2.0,Match Finished,2021,home_win
+Celta Vigo,Atletico Madrid,1.0,2.0,Match Finished,2021,away_win
+Mallorca,Real Betis,1.0,1.0,Match Finished,2021,draw
+Cadiz,Levante,1.0,1.0,Match Finished,2021,draw
+Osasuna,Espanyol,0.0,0.0,Match Finished,2021,draw
+Sevilla,Rayo Vallecano,3.0,0.0,Match Finished,2021,home_win
+Valencia,Getafe,1.0,0.0,Match Finished,2021,home_win
+Villarreal,Granada CF,0.0,0.0,Match Finished,2021,draw
+Elche,Athletic Club,0.0,0.0,Match Finished,2021,draw
+Alaves,Mallorca,0.0,1.0,Match Finished,2021,away_win
+Athletic Club,Barcelona,1.0,1.0,Match Finished,2021,draw
+Atletico Madrid,Elche,1.0,0.0,Match Finished,2021,home_win
+Real Betis,Cadiz,1.0,1.0,Match Finished,2021,draw
+Getafe,Sevilla,0.0,1.0,Match Finished,2021,away_win
+Granada CF,Valencia,1.0,1.0,Match Finished,2021,draw
+Espanyol,Villarreal,0.0,0.0,Match Finished,2021,draw
+Levante,Real Madrid,3.0,3.0,Match Finished,2021,draw
+Osasuna,Celta Vigo,0.0,0.0,Match Finished,2021,draw
+Real Sociedad,Rayo Vallecano,1.0,0.0,Match Finished,2021,home_win
+Atletico Madrid,Villarreal,2.0,2.0,Match Finished,2021,draw
+Barcelona,Getafe,2.0,1.0,Match Finished,2021,home_win
+Real Betis,Real Madrid,0.0,1.0,Match Finished,2021,away_win
+Celta Vigo,Athletic Club,0.0,1.0,Match Finished,2021,away_win
+Mallorca,Espanyol,1.0,0.0,Match Finished,2021,home_win
+Cadiz,Osasuna,2.0,3.0,Match Finished,2021,away_win
+Real Sociedad,Levante,1.0,0.0,Match Finished,2021,home_win
+Valencia,Alaves,3.0,0.0,Match Finished,2021,home_win
+Rayo Vallecano,Granada CF,4.0,0.0,Match Finished,2021,home_win
+Elche,Sevilla,1.0,1.0,Match Finished,2021,draw
+Athletic Club,Mallorca,2.0,0.0,Match Finished,2021,home_win
+Getafe,Elche,0.0,1.0,Match Finished,2021,away_win
+Cadiz,Real Sociedad,0.0,2.0,Match Finished,2021,away_win
+Granada CF,Real Betis,1.0,2.0,Match Finished,2021,away_win
+Espanyol,Atletico Madrid,1.0,2.0,Match Finished,2021,away_win
+Levante,Rayo Vallecano,1.0,1.0,Match Finished,2021,draw
+Osasuna,Valencia,1.0,4.0,Match Finished,2021,away_win
+Real Madrid,Celta Vigo,5.0,2.0,Match Finished,2021,home_win
+Sevilla,Barcelona,1.0,1.0,Match Finished,2021,draw
+Villarreal,Alaves,5.0,2.0,Match Finished,2021,home_win
+Alaves,Osasuna,0.0,2.0,Match Finished,2021,away_win
+Atletico Madrid,Athletic Club,0.0,0.0,Match Finished,2021,draw
+Barcelona,Granada CF,1.0,1.0,Match Finished,2021,draw
+Real Betis,Espanyol,2.0,2.0,Match Finished,2021,draw
+Celta Vigo,Cadiz,1.0,2.0,Match Finished,2021,away_win
+Mallorca,Villarreal,0.0,0.0,Match Finished,2021,draw
+Real Sociedad,Sevilla,0.0,0.0,Match Finished,2021,draw
+Valencia,Real Madrid,1.0,2.0,Match Finished,2021,away_win
+Rayo Vallecano,Getafe,3.0,0.0,Match Finished,2021,home_win
+Elche,Levante,1.0,1.0,Match Finished,2021,draw
+Athletic Club,Rayo Vallecano,1.0,2.0,Match Finished,2021,away_win
+Getafe,Atletico Madrid,1.0,2.0,Match Finished,2021,away_win
+Cadiz,Barcelona,0.0,0.0,Match Finished,2021,draw
+Granada CF,Real Sociedad,2.0,3.0,Match Finished,2021,away_win
+Espanyol,Alaves,1.0,0.0,Match Finished,2021,home_win
+Levante,Celta Vigo,0.0,2.0,Match Finished,2021,away_win
+Osasuna,Real Betis,1.0,3.0,Match Finished,2021,away_win
+Real Madrid,Mallorca,6.0,1.0,Match Finished,2021,home_win
+Sevilla,Valencia,3.0,1.0,Match Finished,2021,home_win
+Villarreal,Elche,4.0,1.0,Match Finished,2021,home_win
+Alaves,Atletico Madrid,1.0,0.0,Match Finished,2021,home_win
+Barcelona,Levante,3.0,0.0,Match Finished,2021,home_win
+Real Betis,Getafe,2.0,0.0,Match Finished,2021,home_win
+Celta Vigo,Granada CF,1.0,0.0,Match Finished,2021,home_win
+Mallorca,Osasuna,2.0,3.0,Match Finished,2021,away_win
+Real Madrid,Villarreal,0.0,0.0,Match Finished,2021,draw
+Real Sociedad,Elche,1.0,0.0,Match Finished,2021,home_win
+Sevilla,Espanyol,2.0,0.0,Match Finished,2021,home_win
+Valencia,Athletic Club,1.0,1.0,Match Finished,2021,draw
+Rayo Vallecano,Cadiz,3.0,1.0,Match Finished,2021,home_win
+Athletic Club,Alaves,1.0,0.0,Match Finished,2021,home_win
+Atletico Madrid,Barcelona,2.0,0.0,Match Finished,2021,home_win
+Mallorca,Levante,1.0,0.0,Match Finished,2021,home_win
+Getafe,Real Sociedad,1.0,1.0,Match Finished,2021,draw
+Cadiz,Valencia,0.0,0.0,Match Finished,2021,draw
+Granada CF,Sevilla,1.0,0.0,Match Finished,2021,home_win
+Espanyol,Real Madrid,2.0,1.0,Match Finished,2021,home_win
+Osasuna,Rayo Vallecano,1.0,0.0,Match Finished,2021,home_win
+Villarreal,Real Betis,2.0,0.0,Match Finished,2021,home_win
+Elche,Celta Vigo,1.0,0.0,Match Finished,2021,home_win
+Alaves,Real Betis,0.0,1.0,Match Finished,2021,away_win
+Barcelona,Valencia,3.0,1.0,Match Finished,2021,home_win
+Celta Vigo,Sevilla,0.0,1.0,Match Finished,2021,away_win
+Granada CF,Atletico Madrid,2.0,1.0,Match Finished,2021,home_win
+Espanyol,Cadiz,2.0,0.0,Match Finished,2021,home_win
+Levante,Getafe,0.0,0.0,Match Finished,2021,draw
+Real Madrid,Athletic Club,1.0,0.0,Match Finished,2021,home_win
+Real Sociedad,Mallorca,1.0,0.0,Match Finished,2021,home_win
+Rayo Vallecano,Elche,2.0,1.0,Match Finished,2021,home_win
+Villarreal,Osasuna,1.0,2.0,Match Finished,2021,away_win
+Athletic Club,Villarreal,2.0,1.0,Match Finished,2021,home_win
+Atletico Madrid,Real Sociedad,2.0,2.0,Match Finished,2021,draw
+Barcelona,Real Madrid,1.0,2.0,Match Finished,2021,away_win
+Real Betis,Rayo Vallecano,3.0,2.0,Match Finished,2021,home_win
+Getafe,Celta Vigo,0.0,3.0,Match Finished,2021,away_win
+Cadiz,Alaves,0.0,2.0,Match Finished,2021,away_win
+Osasuna,Granada CF,1.0,1.0,Match Finished,2021,draw
+Sevilla,Levante,5.0,3.0,Match Finished,2021,home_win
+Valencia,Mallorca,2.0,2.0,Match Finished,2021,draw
+Elche,Espanyol,2.0,2.0,Match Finished,2021,draw
+Alaves,Elche,1.0,0.0,Match Finished,2021,home_win
+Real Betis,Valencia,4.0,1.0,Match Finished,2021,home_win
+Celta Vigo,Real Sociedad,0.0,2.0,Match Finished,2021,away_win
+Mallorca,Sevilla,1.0,1.0,Match Finished,2021,draw
+Granada CF,Getafe,1.0,1.0,Match Finished,2021,draw
+Espanyol,Athletic Club,1.0,1.0,Match Finished,2021,draw
+Levante,Atletico Madrid,2.0,2.0,Match Finished,2021,draw
+Real Madrid,Osasuna,0.0,0.0,Match Finished,2021,draw
+Rayo Vallecano,Barcelona,1.0,0.0,Match Finished,2021,home_win
+Villarreal,Cadiz,3.0,3.0,Match Finished,2021,draw
+Atletico Madrid,Real Betis,3.0,0.0,Match Finished,2021,home_win
+Barcelona,Alaves,1.0,1.0,Match Finished,2021,draw
+Getafe,Espanyol,2.0,1.0,Match Finished,2021,home_win
+Cadiz,Mallorca,1.0,1.0,Match Finished,2021,draw
+Levante,Granada CF,0.0,3.0,Match Finished,2021,away_win
+Real Sociedad,Athletic Club,1.0,1.0,Match Finished,2021,draw
+Sevilla,Osasuna,2.0,0.0,Match Finished,2021,home_win
+Valencia,Villarreal,2.0,0.0,Match Finished,2021,home_win
+Rayo Vallecano,Celta Vigo,0.0,0.0,Match Finished,2021,draw
+Elche,Real Madrid,1.0,2.0,Match Finished,2021,away_win
+Alaves,Levante,2.0,1.0,Match Finished,2021,home_win
+Athletic Club,Cadiz,0.0,1.0,Match Finished,2021,away_win
+Real Betis,Sevilla,0.0,2.0,Match Finished,2021,away_win
+Celta Vigo,Barcelona,3.0,3.0,Match Finished,2021,draw
+Mallorca,Elche,2.0,2.0,Match Finished,2021,draw
+Espanyol,Granada CF,2.0,0.0,Match Finished,2021,home_win
+Osasuna,Real Sociedad,0.0,2.0,Match Finished,2021,away_win
+Real Madrid,Rayo Vallecano,2.0,1.0,Match Finished,2021,home_win
+Valencia,Atletico Madrid,3.0,3.0,Match Finished,2021,draw
+Villarreal,Getafe,1.0,0.0,Match Finished,2021,home_win
+Atletico Madrid,Osasuna,1.0,0.0,Match Finished,2021,home_win
+Barcelona,Espanyol,1.0,0.0,Match Finished,2021,home_win
+Celta Vigo,Villarreal,1.0,1.0,Match Finished,2021,draw
+Getafe,Cadiz,4.0,0.0,Match Finished,2021,home_win
+Granada CF,Real Madrid,1.0,4.0,Match Finished,2021,away_win
+Levante,Athletic Club,0.0,0.0,Match Finished,2021,draw
+Real Sociedad,Valencia,0.0,0.0,Match Finished,2021,draw
+Sevilla,Alaves,2.0,2.0,Match Finished,2021,draw
+Rayo Vallecano,Mallorca,3.0,1.0,Match Finished,2021,home_win
+Elche,Real Betis,0.0,3.0,Match Finished,2021,away_win
+Alaves,Celta Vigo,1.0,2.0,Match Finished,2021,away_win
+Athletic Club,Granada CF,2.0,2.0,Match Finished,2021,draw
+Real Betis,Levante,3.0,1.0,Match Finished,2021,home_win
+Mallorca,Getafe,0.0,0.0,Match Finished,2021,draw
+Cadiz,Atletico Madrid,1.0,4.0,Match Finished,2021,away_win
+Espanyol,Real Sociedad,1.0,0.0,Match Finished,2021,home_win
+Osasuna,Elche,1.0,1.0,Match Finished,2021,draw
+Real Madrid,Sevilla,2.0,1.0,Match Finished,2021,home_win
+Valencia,Rayo Vallecano,1.0,1.0,Match Finished,2021,draw
+Villarreal,Barcelona,1.0,3.0,Match Finished,2021,away_win
+Atletico Madrid,Mallorca,1.0,2.0,Match Finished,2021,away_win
+Barcelona,Real Betis,0.0,1.0,Match Finished,2021,away_win
+Celta Vigo,Valencia,1.0,2.0,Match Finished,2021,away_win
+Getafe,Athletic Club,0.0,0.0,Match Finished,2021,draw
+Granada CF,Alaves,2.0,1.0,Match Finished,2021,home_win
+Levante,Osasuna,0.0,0.0,Match Finished,2021,draw
+Real Sociedad,Real Madrid,0.0,2.0,Match Finished,2021,away_win
+Sevilla,Villarreal,1.0,0.0,Match Finished,2021,home_win
+Rayo Vallecano,Espanyol,1.0,0.0,Match Finished,2021,home_win
+Elche,Cadiz,3.0,1.0,Match Finished,2021,home_win
+Alaves,Getafe,1.0,1.0,Match Finished,2021,draw
+Athletic Club,Sevilla,0.0,1.0,Match Finished,2021,away_win
+Real Betis,Real Sociedad,4.0,0.0,Match Finished,2021,home_win
+Mallorca,Celta Vigo,0.0,0.0,Match Finished,2021,draw
+Cadiz,Granada CF,1.0,1.0,Match Finished,2021,draw
+Espanyol,Levante,4.0,3.0,Match Finished,2021,home_win
+Osasuna,Barcelona,2.0,2.0,Match Finished,2021,draw
+Real Madrid,Atletico Madrid,2.0,0.0,Match Finished,2021,home_win
+Valencia,Elche,2.0,1.0,Match Finished,2021,home_win
+Villarreal,Rayo Vallecano,2.0,0.0,Match Finished,2021,home_win
+Athletic Club,Real Betis,3.0,2.0,Match Finished,2021,home_win
+Barcelona,Elche,3.0,2.0,Match Finished,2021,home_win
+Celta Vigo,Espanyol,3.0,1.0,Match Finished,2021,home_win
+Getafe,Osasuna,1.0,0.0,Match Finished,2021,home_win
+Granada CF,Mallorca,4.0,1.0,Match Finished,2021,home_win
+Levante,Valencia,3.0,4.0,Match Finished,2021,away_win
+Real Madrid,Cadiz,0.0,0.0,Match Finished,2021,draw
+Real Sociedad,Villarreal,1.0,3.0,Match Finished,2021,away_win
+Sevilla,Atletico Madrid,2.0,1.0,Match Finished,2021,home_win
+Rayo Vallecano,Alaves,2.0,0.0,Match Finished,2021,home_win
+Alaves,Real Sociedad,1.0,1.0,Match Finished,2021,draw
+Atletico Madrid,Rayo Vallecano,2.0,0.0,Match Finished,2021,home_win
+Real Betis,Celta Vigo,0.0,2.0,Match Finished,2021,away_win
+Mallorca,Barcelona,0.0,1.0,Match Finished,2021,away_win
+Getafe,Real Madrid,1.0,0.0,Match Finished,2021,home_win
+Cadiz,Sevilla,0.0,1.0,Match Finished,2021,away_win
+Osasuna,Athletic Club,1.0,3.0,Match Finished,2021,away_win
+Valencia,Espanyol,1.0,2.0,Match Finished,2021,away_win
+Villarreal,Levante,5.0,0.0,Match Finished,2021,home_win
+Elche,Granada CF,0.0,0.0,Match Finished,2021,draw
+Alaves,Athletic Club,0.0,0.0,Match Finished,2021,draw
+Granada CF,Barcelona,1.0,1.0,Match Finished,2021,draw
+Espanyol,Elche,1.0,2.0,Match Finished,2021,away_win
+Levante,Mallorca,2.0,0.0,Match Finished,2021,home_win
+Osasuna,Cadiz,2.0,0.0,Match Finished,2021,home_win
+Real Madrid,Valencia,4.0,1.0,Match Finished,2021,home_win
+Real Sociedad,Celta Vigo,1.0,0.0,Match Finished,2021,home_win
+Sevilla,Getafe,1.0,0.0,Match Finished,2021,home_win
+Rayo Vallecano,Real Betis,1.0,1.0,Match Finished,2021,draw
+Villarreal,Atletico Madrid,2.0,2.0,Match Finished,2021,draw
+Athletic Club,Real Madrid,1.0,2.0,Match Finished,2021,away_win
+Atletico Madrid,Levante,0.0,1.0,Match Finished,2021,away_win
+Barcelona,Rayo Vallecano,0.0,1.0,Match Finished,2021,away_win
+Real Betis,Alaves,4.0,0.0,Match Finished,2021,home_win
+Celta Vigo,Osasuna,2.0,0.0,Match Finished,2021,home_win
+Mallorca,Real Sociedad,0.0,2.0,Match Finished,2021,away_win
+Getafe,Granada CF,4.0,2.0,Match Finished,2021,home_win
+Cadiz,Espanyol,2.0,2.0,Match Finished,2021,draw
+Valencia,Sevilla,1.0,1.0,Match Finished,2021,draw
+Elche,Villarreal,1.0,0.0,Match Finished,2021,home_win
+Alaves,Barcelona,0.0,1.0,Match Finished,2021,away_win
+Atletico Madrid,Valencia,3.0,2.0,Match Finished,2021,home_win
+Granada CF,Osasuna,0.0,2.0,Match Finished,2021,away_win
+Espanyol,Real Betis,1.0,4.0,Match Finished,2021,away_win
+Levante,Cadiz,0.0,2.0,Match Finished,2021,away_win
+Real Madrid,Elche,2.0,2.0,Match Finished,2021,draw
+Real Sociedad,Getafe,0.0,0.0,Match Finished,2021,draw
+Sevilla,Celta Vigo,2.0,2.0,Match Finished,2021,draw
+Rayo Vallecano,Athletic Club,0.0,1.0,Match Finished,2021,away_win
+Villarreal,Mallorca,3.0,0.0,Match Finished,2021,home_win
+Athletic Club,Espanyol,2.0,1.0,Match Finished,2021,home_win
+Barcelona,Atletico Madrid,4.0,2.0,Match Finished,2021,home_win
+Real Betis,Villarreal,0.0,2.0,Match Finished,2021,away_win
+Celta Vigo,Rayo Vallecano,2.0,0.0,Match Finished,2021,home_win
+Mallorca,Cadiz,2.0,1.0,Match Finished,2021,home_win
+Getafe,Levante,3.0,0.0,Match Finished,2021,home_win
+Osasuna,Sevilla,0.0,0.0,Match Finished,2021,draw
+Real Madrid,Granada CF,1.0,0.0,Match Finished,2021,home_win
+Valencia,Real Sociedad,0.0,0.0,Match Finished,2021,draw
+Elche,Alaves,3.0,1.0,Match Finished,2021,home_win
+Alaves,Valencia,2.0,1.0,Match Finished,2021,home_win
+Atletico Madrid,Getafe,4.0,3.0,Match Finished,2021,home_win
+Mallorca,Athletic Club,3.0,2.0,Match Finished,2021,home_win
+Cadiz,Celta Vigo,0.0,0.0,Match Finished,2021,draw
+Espanyol,Barcelona,2.0,2.0,Match Finished,2021,draw
+Levante,Real Betis,2.0,4.0,Match Finished,2021,away_win
+Real Sociedad,Granada CF,2.0,0.0,Match Finished,2021,home_win
+Sevilla,Elche,2.0,0.0,Match Finished,2021,home_win
+Rayo Vallecano,Osasuna,0.0,3.0,Match Finished,2021,away_win
+Villarreal,Real Madrid,0.0,0.0,Match Finished,2021,draw
+Athletic Club,Real Sociedad,4.0,0.0,Match Finished,2021,home_win
+Real Betis,Mallorca,2.0,1.0,Match Finished,2021,home_win
+Celta Vigo,Levante,1.0,1.0,Match Finished,2021,draw
+Cadiz,Getafe,1.0,1.0,Match Finished,2021,draw
+Granada CF,Villarreal,1.0,4.0,Match Finished,2021,away_win
+Espanyol,Sevilla,1.0,1.0,Match Finished,2021,draw
+Osasuna,Atletico Madrid,0.0,3.0,Match Finished,2021,away_win
+Real Madrid,Alaves,3.0,0.0,Match Finished,2021,home_win
+Valencia,Barcelona,1.0,4.0,Match Finished,2021,away_win
+Elche,Rayo Vallecano,2.0,1.0,Match Finished,2021,home_win
+Atletico Madrid,Celta Vigo,2.0,0.0,Match Finished,2021,home_win
+Barcelona,Athletic Club,4.0,0.0,Match Finished,2021,home_win
+Mallorca,Valencia,0.0,1.0,Match Finished,2021,away_win
+Getafe,Alaves,2.0,2.0,Match Finished,2021,draw
+Granada CF,Cadiz,0.0,0.0,Match Finished,2021,draw
+Levante,Elche,3.0,0.0,Match Finished,2021,home_win
+Real Sociedad,Osasuna,1.0,0.0,Match Finished,2021,home_win
+Sevilla,Real Betis,2.0,1.0,Match Finished,2021,home_win
+Rayo Vallecano,Real Madrid,0.0,1.0,Match Finished,2021,away_win
+Villarreal,Espanyol,5.0,1.0,Match Finished,2021,home_win
+Alaves,Sevilla,0.0,0.0,Match Finished,2021,draw
+Athletic Club,Levante,3.0,1.0,Match Finished,2021,home_win
+Real Betis,Atletico Madrid,1.0,3.0,Match Finished,2021,away_win
+Celta Vigo,Mallorca,4.0,3.0,Match Finished,2021,home_win
+Cadiz,Rayo Vallecano,2.0,0.0,Match Finished,2021,home_win
+Espanyol,Getafe,2.0,0.0,Match Finished,2021,home_win
+Osasuna,Villarreal,1.0,0.0,Match Finished,2021,home_win
+Real Madrid,Real Sociedad,4.0,1.0,Match Finished,2021,home_win
+Valencia,Granada CF,3.0,1.0,Match Finished,2021,home_win
+Elche,Barcelona,1.0,2.0,Match Finished,2021,away_win
+Atletico Madrid,Cadiz,2.0,1.0,Match Finished,2021,home_win
+Barcelona,Osasuna,4.0,0.0,Match Finished,2021,home_win
+Real Betis,Athletic Club,1.0,0.0,Match Finished,2021,home_win
+Mallorca,Real Madrid,0.0,3.0,Match Finished,2021,away_win
+Getafe,Valencia,0.0,0.0,Match Finished,2021,draw
+Granada CF,Elche,0.0,1.0,Match Finished,2021,away_win
+Levante,Espanyol,1.0,1.0,Match Finished,2021,draw
+Real Sociedad,Alaves,1.0,0.0,Match Finished,2021,home_win
+Rayo Vallecano,Sevilla,1.0,1.0,Match Finished,2021,draw
+Villarreal,Celta Vigo,1.0,0.0,Match Finished,2021,home_win
+Alaves,Granada CF,2.0,3.0,Match Finished,2021,away_win
+Athletic Club,Getafe,1.0,1.0,Match Finished,2021,draw
+Celta Vigo,Real Betis,0.0,0.0,Match Finished,2021,draw
+Cadiz,Villarreal,1.0,0.0,Match Finished,2021,home_win
+Espanyol,Mallorca,1.0,0.0,Match Finished,2021,home_win
+Osasuna,Levante,3.0,1.0,Match Finished,2021,home_win
+Real Madrid,Barcelona,0.0,4.0,Match Finished,2021,away_win
+Sevilla,Real Sociedad,0.0,0.0,Match Finished,2021,draw
+Rayo Vallecano,Atletico Madrid,0.0,1.0,Match Finished,2021,away_win
+Elche,Valencia,0.0,1.0,Match Finished,2021,away_win
+Athletic Club,Elche,2.0,1.0,Match Finished,2021,home_win
+Atletico Madrid,Alaves,4.0,1.0,Match Finished,2021,home_win
+Barcelona,Sevilla,1.0,0.0,Match Finished,2021,home_win
+Real Betis,Osasuna,4.0,1.0,Match Finished,2021,home_win
+Celta Vigo,Real Madrid,1.0,2.0,Match Finished,2021,away_win
+Getafe,Mallorca,1.0,0.0,Match Finished,2021,home_win
+Granada CF,Rayo Vallecano,2.0,2.0,Match Finished,2021,draw
+Levante,Villarreal,2.0,0.0,Match Finished,2021,home_win
+Real Sociedad,Espanyol,1.0,0.0,Match Finished,2021,home_win
+Valencia,Cadiz,0.0,0.0,Match Finished,2021,draw
+Mallorca,Atletico Madrid,1.0,0.0,Match Finished,2021,home_win
+Cadiz,Real Betis,1.0,2.0,Match Finished,2021,away_win
+Espanyol,Celta Vigo,1.0,0.0,Match Finished,2021,home_win
+Levante,Barcelona,2.0,3.0,Match Finished,2021,away_win
+Osasuna,Alaves,1.0,0.0,Match Finished,2021,home_win
+Real Madrid,Getafe,2.0,0.0,Match Finished,2021,home_win
+Sevilla,Granada CF,4.0,2.0,Match Finished,2021,home_win
+Rayo Vallecano,Valencia,1.0,1.0,Match Finished,2021,draw
+Villarreal,Athletic Club,1.0,1.0,Match Finished,2021,draw
+Elche,Real Sociedad,1.0,2.0,Match Finished,2021,away_win
+Alaves,Rayo Vallecano,1.0,0.0,Match Finished,2021,home_win
+Athletic Club,Celta Vigo,0.0,2.0,Match Finished,2021,away_win
+Atletico Madrid,Espanyol,2.0,1.0,Match Finished,2021,home_win
+Barcelona,Cadiz,0.0,1.0,Match Finished,2021,away_win
+Getafe,Villarreal,1.0,2.0,Match Finished,2021,away_win
+Granada CF,Levante,1.0,4.0,Match Finished,2021,away_win
+Real Sociedad,Real Betis,0.0,0.0,Match Finished,2021,draw
+Sevilla,Real Madrid,2.0,3.0,Match Finished,2021,away_win
+Valencia,Osasuna,1.0,2.0,Match Finished,2021,away_win
+Elche,Mallorca,3.0,0.0,Match Finished,2021,home_win
+Atletico Madrid,Granada CF,0.0,0.0,Match Finished,2021,draw
+Real Betis,Elche,0.0,1.0,Match Finished,2021,away_win
+Celta Vigo,Getafe,0.0,2.0,Match Finished,2021,away_win
+Mallorca,Alaves,2.0,1.0,Match Finished,2021,home_win
+Cadiz,Athletic Club,2.0,3.0,Match Finished,2021,away_win
+Espanyol,Rayo Vallecano,0.0,1.0,Match Finished,2021,away_win
+Levante,Sevilla,2.0,3.0,Match Finished,2021,away_win
+Osasuna,Real Madrid,1.0,3.0,Match Finished,2021,away_win
+Real Sociedad,Barcelona,0.0,1.0,Match Finished,2021,away_win
+Villarreal,Valencia,2.0,0.0,Match Finished,2021,home_win
+Alaves,Villarreal,2.0,1.0,Match Finished,2021,home_win
+Athletic Club,Atletico Madrid,2.0,0.0,Match Finished,2021,home_win
+Barcelona,Mallorca,2.0,1.0,Match Finished,2021,home_win
+Getafe,Real Betis,0.0,0.0,Match Finished,2021,draw
+Granada CF,Celta Vigo,1.0,1.0,Match Finished,2021,draw
+Real Madrid,Espanyol,4.0,0.0,Match Finished,2021,home_win
+Sevilla,Cadiz,1.0,1.0,Match Finished,2021,draw
+Valencia,Levante,1.0,1.0,Match Finished,2021,draw
+Rayo Vallecano,Real Sociedad,1.0,1.0,Match Finished,2021,draw
+Elche,Osasuna,1.0,1.0,Match Finished,2021,draw
+Athletic Club,Valencia,0.0,0.0,Match Finished,2021,draw
+Atletico Madrid,Real Madrid,1.0,0.0,Match Finished,2021,home_win
+Real Betis,Barcelona,1.0,2.0,Match Finished,2021,away_win
+Celta Vigo,Alaves,4.0,0.0,Match Finished,2021,home_win
+Mallorca,Granada CF,2.0,6.0,Match Finished,2021,away_win
+Getafe,Rayo Vallecano,0.0,0.0,Match Finished,2021,draw
+Cadiz,Elche,3.0,0.0,Match Finished,2021,home_win
+Espanyol,Osasuna,1.0,1.0,Match Finished,2021,draw
+Levante,Real Sociedad,2.0,1.0,Match Finished,2021,home_win
+Villarreal,Sevilla,1.0,1.0,Match Finished,2021,draw
+Alaves,Espanyol,2.0,1.0,Match Finished,2021,home_win
+Barcelona,Celta Vigo,3.0,1.0,Match Finished,2021,home_win
+Granada CF,Athletic Club,1.0,0.0,Match Finished,2021,home_win
+Osasuna,Getafe,1.0,1.0,Match Finished,2021,draw
+Real Madrid,Levante,6.0,0.0,Match Finished,2021,home_win
+Real Sociedad,Cadiz,3.0,0.0,Match Finished,2021,home_win
+Sevilla,Mallorca,0.0,0.0,Match Finished,2021,draw
+Valencia,Real Betis,0.0,3.0,Match Finished,2021,away_win
+Rayo Vallecano,Villarreal,1.0,5.0,Match Finished,2021,away_win
+Elche,Atletico Madrid,0.0,2.0,Match Finished,2021,away_win
+Athletic Club,Osasuna,2.0,0.0,Match Finished,2021,home_win
+Atletico Madrid,Sevilla,1.0,1.0,Match Finished,2021,draw
+Real Betis,Granada CF,2.0,0.0,Match Finished,2021,home_win
+Celta Vigo,Elche,1.0,0.0,Match Finished,2021,home_win
+Mallorca,Rayo Vallecano,2.0,1.0,Match Finished,2021,home_win
+Getafe,Barcelona,0.0,0.0,Match Finished,2021,draw
+Cadiz,Real Madrid,1.0,1.0,Match Finished,2021,draw
+Espanyol,Valencia,1.0,1.0,Match Finished,2021,draw
+Levante,Alaves,3.0,1.0,Match Finished,2021,home_win
+Villarreal,Real Sociedad,1.0,2.0,Match Finished,2021,away_win
+Alaves,Cadiz,0.0,1.0,Match Finished,2021,away_win
+Barcelona,Villarreal,0.0,2.0,Match Finished,2021,away_win
+Granada CF,Espanyol,0.0,0.0,Match Finished,2021,draw
+Osasuna,Mallorca,0.0,2.0,Match Finished,2021,away_win
+Real Madrid,Real Betis,0.0,0.0,Match Finished,2021,draw
+Real Sociedad,Atletico Madrid,1.0,2.0,Match Finished,2021,away_win
+Sevilla,Athletic Club,1.0,0.0,Match Finished,2021,home_win
+Valencia,Celta Vigo,2.0,0.0,Match Finished,2021,home_win
+Rayo Vallecano,Levante,2.0,4.0,Match Finished,2021,away_win
+Elche,Getafe,3.0,1.0,Match Finished,2021,home_win
+Alaves,Real Betis,0.0,1.0,Match Finished,2020,away_win
+Barcelona,Elche,3.0,0.0,Match Finished,2020,home_win
+Eibar,Celta Vigo,0.0,0.0,Match Finished,2020,draw
+Cadiz,Osasuna,0.0,2.0,Match Finished,2020,away_win
+Granada CF,Athletic Club,2.0,0.0,Match Finished,2020,home_win
+Real Madrid,Getafe,2.0,0.0,Match Finished,2020,home_win
+Valencia,Levante,4.0,2.0,Match Finished,2020,home_win
+Valladolid,Real Sociedad,1.0,1.0,Match Finished,2020,draw
+Villarreal,Huesca,1.0,1.0,Match Finished,2020,draw
+Atletico Madrid,Sevilla,2.0,0.0,Match Finished,2020,home_win
+Real Betis,Valladolid,2.0,0.0,Match Finished,2020,home_win
+Celta Vigo,Valencia,2.0,1.0,Match Finished,2020,home_win
+Getafe,Osasuna,1.0,0.0,Match Finished,2020,home_win
+Granada CF,Alaves,2.0,1.0,Match Finished,2020,home_win
+Huesca,Cadiz,0.0,2.0,Match Finished,2020,away_win
+Levante,Atletico Madrid,1.0,1.0,Match Finished,2020,draw
+Real Sociedad,Real Madrid,0.0,0.0,Match Finished,2020,draw
+Sevilla,Elche,2.0,0.0,Match Finished,2020,home_win
+Villarreal,Eibar,2.0,1.0,Match Finished,2020,home_win
+Athletic Club,Barcelona,2.0,3.0,Match Finished,2020,away_win
+Alaves,Getafe,0.0,0.0,Match Finished,2020,draw
+Atletico Madrid,Granada CF,6.0,1.0,Match Finished,2020,home_win
+Barcelona,Villarreal,4.0,0.0,Match Finished,2020,home_win
+Real Betis,Real Madrid,2.0,3.0,Match Finished,2020,away_win
+Eibar,Athletic Club,1.0,2.0,Match Finished,2020,away_win
+Cadiz,Sevilla,1.0,3.0,Match Finished,2020,away_win
+Osasuna,Levante,1.0,3.0,Match Finished,2020,away_win
+Valencia,Huesca,1.0,1.0,Match Finished,2020,draw
+Valladolid,Celta Vigo,1.0,1.0,Match Finished,2020,draw
+Elche,Real Sociedad,0.0,3.0,Match Finished,2020,away_win
+Athletic Club,Cadiz,0.0,1.0,Match Finished,2020,away_win
+Celta Vigo,Barcelona,0.0,3.0,Match Finished,2020,away_win
+Eibar,Elche,0.0,1.0,Match Finished,2020,away_win
+Getafe,Real Betis,3.0,0.0,Match Finished,2020,home_win
+Granada CF,Osasuna,2.0,0.0,Match Finished,2020,home_win
+Huesca,Atletico Madrid,0.0,0.0,Match Finished,2020,draw
+Real Madrid,Valladolid,1.0,0.0,Match Finished,2020,home_win
+Real Sociedad,Valencia,0.0,1.0,Match Finished,2020,away_win
+Sevilla,Levante,1.0,0.0,Match Finished,2020,home_win
+Villarreal,Alaves,3.0,1.0,Match Finished,2020,home_win
+Alaves,Athletic Club,1.0,0.0,Match Finished,2020,home_win
+Atletico Madrid,Villarreal,0.0,0.0,Match Finished,2020,draw
+Barcelona,Sevilla,1.0,1.0,Match Finished,2020,draw
+Cadiz,Granada CF,1.0,1.0,Match Finished,2020,draw
+Levante,Real Madrid,0.0,2.0,Match Finished,2020,away_win
+Osasuna,Celta Vigo,2.0,0.0,Match Finished,2020,home_win
+Real Sociedad,Getafe,3.0,0.0,Match Finished,2020,home_win
+Valencia,Real Betis,0.0,2.0,Match Finished,2020,away_win
+Valladolid,Eibar,1.0,2.0,Match Finished,2020,away_win
+Elche,Huesca,0.0,0.0,Match Finished,2020,draw
+Alaves,Elche,0.0,2.0,Match Finished,2020,away_win
+Athletic Club,Levante,2.0,0.0,Match Finished,2020,home_win
+Real Betis,Real Sociedad,0.0,3.0,Match Finished,2020,away_win
+Celta Vigo,Atletico Madrid,0.0,2.0,Match Finished,2020,away_win
+Eibar,Osasuna,0.0,0.0,Match Finished,2020,draw
+Getafe,Barcelona,1.0,0.0,Match Finished,2020,home_win
+Granada CF,Sevilla,1.0,0.0,Match Finished,2020,home_win
+Huesca,Valladolid,2.0,2.0,Match Finished,2020,draw
+Real Madrid,Cadiz,0.0,1.0,Match Finished,2020,away_win
+Villarreal,Valencia,2.0,1.0,Match Finished,2020,home_win
+Atletico Madrid,Real Betis,2.0,0.0,Match Finished,2020,home_win
+Barcelona,Real Madrid,1.0,3.0,Match Finished,2020,away_win
+Getafe,Granada CF,0.0,1.0,Match Finished,2020,away_win
+Cadiz,Villarreal,0.0,0.0,Match Finished,2020,draw
+Levante,Celta Vigo,1.0,1.0,Match Finished,2020,draw
+Osasuna,Athletic Club,1.0,0.0,Match Finished,2020,home_win
+Real Sociedad,Huesca,4.0,1.0,Match Finished,2020,home_win
+Sevilla,Eibar,0.0,1.0,Match Finished,2020,away_win
+Valladolid,Alaves,0.0,2.0,Match Finished,2020,away_win
+Elche,Valencia,2.0,1.0,Match Finished,2020,home_win
+Alaves,Barcelona,1.0,1.0,Match Finished,2020,draw
+Athletic Club,Sevilla,2.0,1.0,Match Finished,2020,home_win
+Real Betis,Elche,3.0,1.0,Match Finished,2020,home_win
+Celta Vigo,Real Sociedad,1.0,4.0,Match Finished,2020,away_win
+Eibar,Cadiz,0.0,2.0,Match Finished,2020,away_win
+Granada CF,Levante,1.0,1.0,Match Finished,2020,draw
+Osasuna,Atletico Madrid,1.0,3.0,Match Finished,2020,away_win
+Real Madrid,Huesca,4.0,1.0,Match Finished,2020,home_win
+Valencia,Getafe,2.0,2.0,Match Finished,2020,draw
+Villarreal,Valladolid,2.0,0.0,Match Finished,2020,home_win
+Atletico Madrid,Cadiz,4.0,0.0,Match Finished,2020,home_win
+Barcelona,Real Betis,5.0,2.0,Match Finished,2020,home_win
+Getafe,Villarreal,1.0,3.0,Match Finished,2020,away_win
+Huesca,Eibar,1.0,1.0,Match Finished,2020,draw
+Levante,Alaves,1.0,1.0,Match Finished,2020,draw
+Real Sociedad,Granada CF,2.0,0.0,Match Finished,2020,home_win
+Sevilla,Osasuna,1.0,0.0,Match Finished,2020,home_win
+Valencia,Real Madrid,4.0,1.0,Match Finished,2020,home_win
+Valladolid,Athletic Club,2.0,1.0,Match Finished,2020,home_win
+Elche,Celta Vigo,1.0,1.0,Match Finished,2020,draw
+Alaves,Valencia,2.0,2.0,Match Finished,2020,draw
+Athletic Club,Real Betis,4.0,0.0,Match Finished,2020,home_win
+Atletico Madrid,Barcelona,1.0,0.0,Match Finished,2020,home_win
+Eibar,Getafe,0.0,0.0,Match Finished,2020,draw
+Cadiz,Real Sociedad,0.0,1.0,Match Finished,2020,away_win
+Granada CF,Valladolid,1.0,3.0,Match Finished,2020,away_win
+Levante,Elche,1.0,1.0,Match Finished,2020,draw
+Osasuna,Huesca,1.0,1.0,Match Finished,2020,draw
+Sevilla,Celta Vigo,4.0,2.0,Match Finished,2020,home_win
+Villarreal,Real Madrid,1.0,1.0,Match Finished,2020,draw
+Barcelona,Osasuna,4.0,0.0,Match Finished,2020,home_win
+Real Betis,Eibar,0.0,2.0,Match Finished,2020,away_win
+Celta Vigo,Granada CF,3.0,1.0,Match Finished,2020,home_win
+Getafe,Athletic Club,1.0,1.0,Match Finished,2020,draw
+Huesca,Sevilla,0.0,1.0,Match Finished,2020,away_win
+Real Madrid,Alaves,1.0,2.0,Match Finished,2020,away_win
+Real Sociedad,Villarreal,1.0,1.0,Match Finished,2020,draw
+Valencia,Atletico Madrid,0.0,1.0,Match Finished,2020,away_win
+Valladolid,Levante,1.0,1.0,Match Finished,2020,draw
+Elche,Cadiz,1.0,1.0,Match Finished,2020,draw
+Alaves,Real Sociedad,0.0,0.0,Match Finished,2020,draw
+Athletic Club,Celta Vigo,0.0,2.0,Match Finished,2020,away_win
+Atletico Madrid,Valladolid,2.0,0.0,Match Finished,2020,home_win
+Eibar,Valencia,0.0,0.0,Match Finished,2020,draw
+Cadiz,Barcelona,2.0,1.0,Match Finished,2020,home_win
+Granada CF,Huesca,3.0,3.0,Match Finished,2020,draw
+Levante,Getafe,3.0,0.0,Match Finished,2020,home_win
+Osasuna,Real Betis,0.0,2.0,Match Finished,2020,away_win
+Sevilla,Real Madrid,0.0,1.0,Match Finished,2020,away_win
+Villarreal,Elche,0.0,0.0,Match Finished,2020,draw
+Barcelona,Levante,1.0,0.0,Match Finished,2020,home_win
+Real Betis,Villarreal,1.0,1.0,Match Finished,2020,draw
+Celta Vigo,Cadiz,4.0,0.0,Match Finished,2020,home_win
+Getafe,Sevilla,0.0,1.0,Match Finished,2020,away_win
+Huesca,Alaves,1.0,0.0,Match Finished,2020,home_win
+Real Madrid,Atletico Madrid,2.0,0.0,Match Finished,2020,home_win
+Real Sociedad,Eibar,1.0,1.0,Match Finished,2020,draw
+Valencia,Athletic Club,2.0,2.0,Match Finished,2020,draw
+Valladolid,Osasuna,3.0,2.0,Match Finished,2020,home_win
+Elche,Granada CF,0.0,1.0,Match Finished,2020,away_win
+Athletic Club,Huesca,2.0,0.0,Match Finished,2020,home_win
+Atletico Madrid,Elche,3.0,1.0,Match Finished,2020,home_win
+Barcelona,Valencia,2.0,2.0,Match Finished,2020,draw
+Celta Vigo,Alaves,2.0,0.0,Match Finished,2020,home_win
+Eibar,Real Madrid,1.0,3.0,Match Finished,2020,away_win
+Cadiz,Getafe,0.0,2.0,Match Finished,2020,away_win
+Granada CF,Real Betis,2.0,0.0,Match Finished,2020,home_win
+Levante,Real Sociedad,2.0,1.0,Match Finished,2020,home_win
+Osasuna,Villarreal,1.0,3.0,Match Finished,2020,away_win
+Sevilla,Valladolid,1.0,1.0,Match Finished,2020,draw
+Alaves,Eibar,2.0,1.0,Match Finished,2020,home_win
+Real Betis,Cadiz,1.0,0.0,Match Finished,2020,home_win
+Getafe,Celta Vigo,1.0,1.0,Match Finished,2020,draw
+Huesca,Levante,1.0,1.0,Match Finished,2020,draw
+Real Madrid,Granada CF,2.0,0.0,Match Finished,2020,home_win
+Real Sociedad,Atletico Madrid,0.0,2.0,Match Finished,2020,away_win
+Valencia,Sevilla,0.0,1.0,Match Finished,2020,away_win
+Valladolid,Barcelona,0.0,3.0,Match Finished,2020,away_win
+Villarreal,Athletic Club,1.0,1.0,Match Finished,2020,draw
+Elche,Osasuna,2.0,2.0,Match Finished,2020,draw
+Athletic Club,Real Sociedad,0.0,1.0,Match Finished,2020,away_win
+Atletico Madrid,Getafe,1.0,0.0,Match Finished,2020,home_win
+Barcelona,Eibar,1.0,1.0,Match Finished,2020,draw
+Celta Vigo,Huesca,2.0,1.0,Match Finished,2020,home_win
+Cadiz,Valladolid,0.0,0.0,Match Finished,2020,draw
+Granada CF,Valencia,2.0,1.0,Match Finished,2020,home_win
+Levante,Real Betis,4.0,3.0,Match Finished,2020,home_win
+Osasuna,Alaves,1.0,1.0,Match Finished,2020,draw
+Sevilla,Villarreal,2.0,0.0,Match Finished,2020,home_win
+Elche,Real Madrid,1.0,1.0,Match Finished,2020,draw
+Alaves,Atletico Madrid,1.0,2.0,Match Finished,2020,away_win
+Athletic Club,Elche,1.0,0.0,Match Finished,2020,home_win
+Real Betis,Sevilla,1.0,1.0,Match Finished,2020,draw
+Eibar,Granada CF,2.0,0.0,Match Finished,2020,home_win
+Getafe,Valladolid,0.0,1.0,Match Finished,2020,away_win
+Huesca,Barcelona,0.0,1.0,Match Finished,2020,away_win
+Real Madrid,Celta Vigo,2.0,0.0,Match Finished,2020,home_win
+Real Sociedad,Osasuna,1.0,1.0,Match Finished,2020,draw
+Valencia,Cadiz,1.0,1.0,Match Finished,2020,draw
+Villarreal,Levante,2.0,1.0,Match Finished,2020,home_win
+Atletico Madrid,Athletic Club,2.0,1.0,Match Finished,2020,home_win
+Celta Vigo,Villarreal,0.0,4.0,Match Finished,2020,away_win
+Cadiz,Alaves,3.0,1.0,Match Finished,2020,home_win
+Granada CF,Barcelona,0.0,4.0,Match Finished,2020,away_win
+Huesca,Real Betis,0.0,2.0,Match Finished,2020,away_win
+Levante,Eibar,2.0,1.0,Match Finished,2020,home_win
+Osasuna,Real Madrid,0.0,0.0,Match Finished,2020,draw
+Sevilla,Real Sociedad,3.0,2.0,Match Finished,2020,home_win
+Valladolid,Valencia,0.0,1.0,Match Finished,2020,away_win
+Elche,Getafe,1.0,3.0,Match Finished,2020,away_win
+Alaves,Sevilla,1.0,2.0,Match Finished,2020,away_win
+Barcelona,Real Sociedad,2.0,1.0,Match Finished,2020,home_win
+Real Betis,Celta Vigo,2.0,1.0,Match Finished,2020,home_win
+Eibar,Atletico Madrid,1.0,2.0,Match Finished,2020,away_win
+Getafe,Huesca,1.0,0.0,Match Finished,2020,home_win
+Cadiz,Levante,2.0,2.0,Match Finished,2020,draw
+Real Madrid,Athletic Club,3.0,1.0,Match Finished,2020,home_win
+Valencia,Osasuna,1.0,1.0,Match Finished,2020,draw
+Valladolid,Elche,2.0,2.0,Match Finished,2020,draw
+Villarreal,Granada CF,2.0,2.0,Match Finished,2020,draw
+Alaves,Real Madrid,1.0,4.0,Match Finished,2020,away_win
+Athletic Club,Getafe,5.0,1.0,Match Finished,2020,home_win
+Atletico Madrid,Valencia,3.0,1.0,Match Finished,2020,home_win
+Celta Vigo,Eibar,1.0,1.0,Match Finished,2020,draw
+Huesca,Villarreal,0.0,0.0,Match Finished,2020,draw
+Levante,Valladolid,2.0,2.0,Match Finished,2020,draw
+Osasuna,Granada CF,3.0,1.0,Match Finished,2020,home_win
+Real Sociedad,Real Betis,2.0,2.0,Match Finished,2020,draw
+Sevilla,Cadiz,3.0,0.0,Match Finished,2020,home_win
+Elche,Barcelona,0.0,2.0,Match Finished,2020,away_win
+Barcelona,Athletic Club,2.0,1.0,Match Finished,2020,home_win
+Real Betis,Osasuna,1.0,0.0,Match Finished,2020,home_win
+Eibar,Sevilla,0.0,2.0,Match Finished,2020,away_win
+Getafe,Alaves,0.0,0.0,Match Finished,2020,draw
+Cadiz,Atletico Madrid,2.0,4.0,Match Finished,2020,away_win
+Granada CF,Celta Vigo,0.0,0.0,Match Finished,2020,draw
+Real Madrid,Levante,1.0,2.0,Match Finished,2020,away_win
+Valencia,Elche,1.0,0.0,Match Finished,2020,home_win
+Valladolid,Huesca,1.0,3.0,Match Finished,2020,away_win
+Villarreal,Real Sociedad,1.0,1.0,Match Finished,2020,draw
+Alaves,Valladolid,1.0,0.0,Match Finished,2020,home_win
+Athletic Club,Valencia,1.0,1.0,Match Finished,2020,draw
+Atletico Madrid,Celta Vigo,2.0,2.0,Match Finished,2020,draw
+Real Betis,Barcelona,2.0,3.0,Match Finished,2020,away_win
+Huesca,Real Madrid,1.0,2.0,Match Finished,2020,away_win
+Levante,Granada CF,2.0,2.0,Match Finished,2020,draw
+Osasuna,Eibar,2.0,1.0,Match Finished,2020,home_win
+Real Sociedad,Cadiz,4.0,1.0,Match Finished,2020,home_win
+Sevilla,Getafe,3.0,0.0,Match Finished,2020,home_win
+Elche,Villarreal,2.0,2.0,Match Finished,2020,draw
+Barcelona,Alaves,5.0,1.0,Match Finished,2020,home_win
+Celta Vigo,Elche,3.0,1.0,Match Finished,2020,home_win
+Eibar,Valladolid,1.0,1.0,Match Finished,2020,draw
+Getafe,Real Sociedad,0.0,1.0,Match Finished,2020,away_win
+Cadiz,Athletic Club,0.0,4.0,Match Finished,2020,away_win
+Granada CF,Atletico Madrid,1.0,2.0,Match Finished,2020,away_win
+Levante,Osasuna,0.0,1.0,Match Finished,2020,away_win
+Real Madrid,Valencia,2.0,0.0,Match Finished,2020,home_win
+Sevilla,Huesca,1.0,0.0,Match Finished,2020,home_win
+Villarreal,Real Betis,1.0,2.0,Match Finished,2020,away_win
+Athletic Club,Villarreal,1.0,1.0,Match Finished,2020,draw
+Atletico Madrid,Levante,0.0,2.0,Match Finished,2020,away_win
+Barcelona,Cadiz,1.0,1.0,Match Finished,2020,draw
+Real Betis,Getafe,1.0,0.0,Match Finished,2020,home_win
+Huesca,Granada CF,3.0,2.0,Match Finished,2020,home_win
+Osasuna,Sevilla,0.0,2.0,Match Finished,2020,away_win
+Real Sociedad,Alaves,4.0,0.0,Match Finished,2020,home_win
+Valencia,Celta Vigo,2.0,0.0,Match Finished,2020,home_win
+Valladolid,Real Madrid,0.0,1.0,Match Finished,2020,away_win
+Elche,Eibar,1.0,0.0,Match Finished,2020,home_win
+Alaves,Osasuna,0.0,1.0,Match Finished,2020,away_win
+Celta Vigo,Valladolid,1.0,1.0,Match Finished,2020,draw
+Eibar,Huesca,1.0,1.0,Match Finished,2020,draw
+Getafe,Valencia,3.0,0.0,Match Finished,2020,home_win
+Cadiz,Real Betis,0.0,1.0,Match Finished,2020,away_win
+Granada CF,Elche,2.0,1.0,Match Finished,2020,home_win
+Levante,Athletic Club,1.0,1.0,Match Finished,2020,draw
+Real Madrid,Real Sociedad,1.0,1.0,Match Finished,2020,draw
+Sevilla,Barcelona,0.0,2.0,Match Finished,2020,away_win
+Villarreal,Atletico Madrid,0.0,2.0,Match Finished,2020,away_win
+Athletic Club,Granada CF,2.0,1.0,Match Finished,2020,home_win
+Atletico Madrid,Real Madrid,1.0,1.0,Match Finished,2020,draw
+Real Betis,Alaves,3.0,2.0,Match Finished,2020,home_win
+Cadiz,Eibar,1.0,0.0,Match Finished,2020,home_win
+Huesca,Celta Vigo,3.0,4.0,Match Finished,2020,away_win
+Osasuna,Barcelona,0.0,2.0,Match Finished,2020,away_win
+Real Sociedad,Levante,1.0,0.0,Match Finished,2020,home_win
+Valencia,Villarreal,2.0,1.0,Match Finished,2020,home_win
+Valladolid,Getafe,2.0,1.0,Match Finished,2020,home_win
+Elche,Sevilla,2.0,1.0,Match Finished,2020,home_win
+Alaves,Cadiz,1.0,1.0,Match Finished,2020,draw
+Barcelona,Huesca,4.0,1.0,Match Finished,2020,home_win
+Celta Vigo,Athletic Club,0.0,0.0,Match Finished,2020,draw
+Eibar,Villarreal,1.0,3.0,Match Finished,2020,away_win
+Getafe,Atletico Madrid,0.0,0.0,Match Finished,2020,draw
+Granada CF,Real Sociedad,1.0,0.0,Match Finished,2020,home_win
+Levante,Valencia,1.0,0.0,Match Finished,2020,home_win
+Osasuna,Valladolid,0.0,0.0,Match Finished,2020,draw
+Real Madrid,Elche,2.0,1.0,Match Finished,2020,home_win
+Sevilla,Real Betis,1.0,0.0,Match Finished,2020,home_win
+Athletic Club,Eibar,1.0,1.0,Match Finished,2020,draw
+Atletico Madrid,Alaves,1.0,0.0,Match Finished,2020,home_win
+Real Betis,Levante,2.0,0.0,Match Finished,2020,home_win
+Celta Vigo,Real Madrid,1.0,3.0,Match Finished,2020,away_win
+Getafe,Elche,1.0,1.0,Match Finished,2020,draw
+Huesca,Osasuna,0.0,0.0,Match Finished,2020,draw
+Real Sociedad,Barcelona,1.0,6.0,Match Finished,2020,away_win
+Valencia,Granada CF,2.0,1.0,Match Finished,2020,home_win
+Valladolid,Sevilla,1.0,1.0,Match Finished,2020,draw
+Villarreal,Cadiz,2.0,1.0,Match Finished,2020,home_win
+Alaves,Celta Vigo,1.0,3.0,Match Finished,2020,away_win
+Barcelona,Valladolid,1.0,0.0,Match Finished,2020,home_win
+Cadiz,Valencia,2.0,1.0,Match Finished,2020,home_win
+Granada CF,Villarreal,0.0,3.0,Match Finished,2020,away_win
+Levante,Huesca,0.0,2.0,Match Finished,2020,away_win
+Osasuna,Getafe,0.0,0.0,Match Finished,2020,draw
+Real Madrid,Eibar,2.0,0.0,Match Finished,2020,home_win
+Real Sociedad,Athletic Club,1.0,1.0,Match Finished,2020,draw
+Sevilla,Atletico Madrid,1.0,0.0,Match Finished,2020,home_win
+Elche,Real Betis,1.0,1.0,Match Finished,2020,draw
+Athletic Club,Alaves,0.0,0.0,Match Finished,2020,draw
+Real Betis,Atletico Madrid,1.0,1.0,Match Finished,2020,draw
+Celta Vigo,Sevilla,3.0,4.0,Match Finished,2020,away_win
+Eibar,Levante,0.0,1.0,Match Finished,2020,away_win
+Getafe,Cadiz,0.0,1.0,Match Finished,2020,away_win
+Huesca,Elche,3.0,1.0,Match Finished,2020,home_win
+Real Madrid,Barcelona,2.0,1.0,Match Finished,2020,home_win
+Valencia,Real Sociedad,2.0,2.0,Match Finished,2020,draw
+Valladolid,Granada CF,1.0,2.0,Match Finished,2020,away_win
+Villarreal,Osasuna,1.0,2.0,Match Finished,2020,away_win
+Alaves,Villarreal,2.0,1.0,Match Finished,2020,home_win
+Atletico Madrid,Huesca,2.0,0.0,Match Finished,2020,home_win
+Barcelona,Getafe,5.0,2.0,Match Finished,2020,home_win
+Real Betis,Athletic Club,0.0,0.0,Match Finished,2020,draw
+Cadiz,Real Madrid,0.0,3.0,Match Finished,2020,away_win
+Granada CF,Eibar,4.0,1.0,Match Finished,2020,home_win
+Levante,Sevilla,0.0,1.0,Match Finished,2020,away_win
+Osasuna,Valencia,3.0,1.0,Match Finished,2020,home_win
+Real Sociedad,Celta Vigo,2.0,1.0,Match Finished,2020,home_win
+Elche,Valladolid,1.0,1.0,Match Finished,2020,draw
+Athletic Club,Atletico Madrid,2.0,1.0,Match Finished,2020,home_win
+Celta Vigo,Osasuna,2.0,1.0,Match Finished,2020,home_win
+Eibar,Real Sociedad,0.0,1.0,Match Finished,2020,away_win
+Huesca,Getafe,0.0,2.0,Match Finished,2020,away_win
+Real Madrid,Real Betis,0.0,0.0,Match Finished,2020,draw
+Sevilla,Granada CF,2.0,1.0,Match Finished,2020,home_win
+Valencia,Alaves,1.0,1.0,Match Finished,2020,draw
+Valladolid,Cadiz,1.0,1.0,Match Finished,2020,draw
+Villarreal,Barcelona,1.0,2.0,Match Finished,2020,away_win
+Elche,Levante,1.0,0.0,Match Finished,2020,home_win
+Alaves,Huesca,1.0,0.0,Match Finished,2020,home_win
+Athletic Club,Valladolid,2.0,2.0,Match Finished,2020,draw
+Atletico Madrid,Eibar,5.0,0.0,Match Finished,2020,home_win
+Barcelona,Granada CF,1.0,2.0,Match Finished,2020,away_win
+Real Betis,Valencia,2.0,2.0,Match Finished,2020,draw
+Getafe,Real Madrid,0.0,0.0,Match Finished,2020,draw
+Cadiz,Celta Vigo,0.0,0.0,Match Finished,2020,draw
+Levante,Villarreal,1.0,5.0,Match Finished,2020,away_win
+Osasuna,Elche,2.0,0.0,Match Finished,2020,home_win
+Real Sociedad,Sevilla,1.0,2.0,Match Finished,2020,away_win
+Celta Vigo,Levante,2.0,0.0,Match Finished,2020,home_win
+Eibar,Alaves,3.0,0.0,Match Finished,2020,home_win
+Granada CF,Cadiz,0.0,1.0,Match Finished,2020,away_win
+Huesca,Real Sociedad,1.0,0.0,Match Finished,2020,home_win
+Real Madrid,Osasuna,2.0,0.0,Match Finished,2020,home_win
+Sevilla,Athletic Club,0.0,1.0,Match Finished,2020,away_win
+Valencia,Barcelona,2.0,3.0,Match Finished,2020,away_win
+Valladolid,Real Betis,1.0,1.0,Match Finished,2020,draw
+Villarreal,Getafe,1.0,0.0,Match Finished,2020,home_win
+Elche,Atletico Madrid,0.0,1.0,Match Finished,2020,away_win
+Alaves,Levante,2.0,2.0,Match Finished,2020,draw
+Athletic Club,Osasuna,2.0,2.0,Match Finished,2020,draw
+Barcelona,Atletico Madrid,0.0,0.0,Match Finished,2020,draw
+Real Betis,Granada CF,2.0,1.0,Match Finished,2020,home_win
+Getafe,Eibar,0.0,1.0,Match Finished,2020,away_win
+Cadiz,Huesca,2.0,1.0,Match Finished,2020,home_win
+Real Madrid,Sevilla,2.0,2.0,Match Finished,2020,draw
+Real Sociedad,Elche,2.0,0.0,Match Finished,2020,home_win
+Valencia,Valladolid,3.0,0.0,Match Finished,2020,home_win
+Villarreal,Celta Vigo,2.0,4.0,Match Finished,2020,away_win
+Atletico Madrid,Real Sociedad,2.0,1.0,Match Finished,2020,home_win
+Celta Vigo,Getafe,1.0,0.0,Match Finished,2020,home_win
+Eibar,Real Betis,1.0,1.0,Match Finished,2020,draw
+Granada CF,Real Madrid,1.0,4.0,Match Finished,2020,away_win
+Huesca,Athletic Club,1.0,0.0,Match Finished,2020,home_win
+Levante,Barcelona,3.0,3.0,Match Finished,2020,draw
+Osasuna,Cadiz,3.0,2.0,Match Finished,2020,home_win
+Sevilla,Valencia,1.0,0.0,Match Finished,2020,home_win
+Valladolid,Villarreal,0.0,2.0,Match Finished,2020,away_win
+Elche,Alaves,0.0,2.0,Match Finished,2020,away_win
+Alaves,Granada CF,4.0,2.0,Match Finished,2020,home_win
+Athletic Club,Real Madrid,0.0,1.0,Match Finished,2020,away_win
+Atletico Madrid,Osasuna,2.0,1.0,Match Finished,2020,home_win
+Barcelona,Celta Vigo,1.0,2.0,Match Finished,2020,away_win
+Real Betis,Huesca,1.0,0.0,Match Finished,2020,home_win
+Getafe,Levante,2.0,1.0,Match Finished,2020,home_win
+Cadiz,Elche,1.0,3.0,Match Finished,2020,away_win
+Real Sociedad,Valladolid,4.0,1.0,Match Finished,2020,home_win
+Valencia,Eibar,4.0,1.0,Match Finished,2020,home_win
+Villarreal,Sevilla,4.0,0.0,Match Finished,2020,home_win
+Celta Vigo,Real Betis,2.0,3.0,Match Finished,2020,away_win
+Eibar,Barcelona,0.0,1.0,Match Finished,2020,away_win
+Granada CF,Getafe,0.0,0.0,Match Finished,2020,draw
+Huesca,Valencia,0.0,0.0,Match Finished,2020,draw
+Levante,Cadiz,2.0,2.0,Match Finished,2020,draw
+Osasuna,Real Sociedad,0.0,1.0,Match Finished,2020,away_win
+Real Madrid,Villarreal,2.0,1.0,Match Finished,2020,home_win
+Sevilla,Alaves,1.0,0.0,Match Finished,2020,home_win
+Valladolid,Atletico Madrid,1.0,2.0,Match Finished,2020,away_win
+Elche,Athletic Club,2.0,0.0,Match Finished,2020,home_win
+Athletic Club,Mallorca,0.0,0.0,Match Finished,2022,draw
+Barcelona,Rayo Vallecano,0.0,0.0,Match Finished,2022,draw
+Real Betis,Elche,3.0,0.0,Match Finished,2022,home_win
+Celta Vigo,Espanyol,2.0,2.0,Match Finished,2022,draw
+Cadiz,Real Sociedad,0.0,1.0,Match Finished,2022,away_win
+Osasuna,Sevilla,2.0,1.0,Match Finished,2022,home_win
+Almeria,Real Madrid,1.0,2.0,Match Finished,2022,away_win
+Getafe,Atletico Madrid,0.0,3.0,Match Finished,2022,away_win
+Valladolid,Villarreal,0.0,3.0,Match Finished,2022,away_win
+Valencia,Girona,1.0,0.0,Match Finished,2022,home_win
+Athletic Club,Valencia,1.0,0.0,Match Finished,2022,home_win
+Atletico Madrid,Villarreal,0.0,2.0,Match Finished,2022,away_win
+Celta Vigo,Real Madrid,1.0,4.0,Match Finished,2022,away_win
+Espanyol,Rayo Vallecano,0.0,2.0,Match Finished,2022,away_win
+Sevilla,Valladolid,1.0,1.0,Match Finished,2022,draw
+Real Sociedad,Barcelona,1.0,4.0,Match Finished,2022,away_win
+Mallorca,Real Betis,1.0,2.0,Match Finished,2022,away_win
+Girona,Getafe,3.0,1.0,Match Finished,2022,home_win
+Osasuna,Cadiz,2.0,0.0,Match Finished,2022,home_win
+Elche,Almeria,1.0,1.0,Match Finished,2022,draw
+Barcelona,Valladolid,4.0,0.0,Match Finished,2022,home_win
+Real Betis,Osasuna,1.0,0.0,Match Finished,2022,home_win
+Elche,Real Sociedad,0.0,1.0,Match Finished,2022,away_win
+Getafe,Villarreal,0.0,0.0,Match Finished,2022,draw
+Espanyol,Real Madrid,1.0,3.0,Match Finished,2022,away_win
+Almeria,Sevilla,2.0,1.0,Match Finished,2022,home_win
+Cadiz,Athletic Club,0.0,4.0,Match Finished,2022,away_win
+Valencia,Atletico Madrid,0.0,1.0,Match Finished,2022,away_win
+Girona,Celta Vigo,0.0,1.0,Match Finished,2022,away_win
+Rayo Vallecano,Mallorca,0.0,2.0,Match Finished,2022,away_win
+Athletic Club,Espanyol,0.0,1.0,Match Finished,2022,away_win
+Osasuna,Rayo Vallecano,2.0,1.0,Match Finished,2022,home_win
+Real Sociedad,Atletico Madrid,1.0,1.0,Match Finished,2022,draw
+Sevilla,Barcelona,0.0,3.0,Match Finished,2022,away_win
+Real Madrid,Real Betis,2.0,1.0,Match Finished,2022,home_win
+Villarreal,Elche,4.0,0.0,Match Finished,2022,home_win
+Valencia,Getafe,5.0,1.0,Match Finished,2022,home_win
+Celta Vigo,Cadiz,3.0,0.0,Match Finished,2022,home_win
+Valladolid,Almeria,1.0,0.0,Match Finished,2022,home_win
+Mallorca,Girona,1.0,1.0,Match Finished,2022,draw
+Atletico Madrid,Celta Vigo,4.0,1.0,Match Finished,2022,home_win
+Real Betis,Villarreal,1.0,0.0,Match Finished,2022,home_win
+Getafe,Real Sociedad,2.0,1.0,Match Finished,2022,home_win
+Espanyol,Sevilla,2.0,3.0,Match Finished,2022,away_win
+Rayo Vallecano,Valencia,2.0,1.0,Match Finished,2022,home_win
+Almeria,Osasuna,0.0,1.0,Match Finished,2022,away_win
+Girona,Valladolid,2.0,1.0,Match Finished,2022,home_win
+Elche,Athletic Club,1.0,4.0,Match Finished,2022,away_win
+Cadiz,Barcelona,0.0,4.0,Match Finished,2022,away_win
+Real Madrid,Mallorca,4.0,1.0,Match Finished,2022,home_win
+Athletic Club,Rayo Vallecano,3.0,2.0,Match Finished,2022,home_win
+Atletico Madrid,Real Madrid,1.0,2.0,Match Finished,2022,away_win
+Barcelona,Elche,3.0,0.0,Match Finished,2022,home_win
+Real Betis,Girona,2.0,1.0,Match Finished,2022,home_win
+Valencia,Celta Vigo,3.0,0.0,Match Finished,2022,home_win
+Osasuna,Getafe,0.0,2.0,Match Finished,2022,away_win
+Valladolid,Cadiz,0.0,1.0,Match Finished,2022,away_win
+Real Sociedad,Espanyol,2.0,1.0,Match Finished,2022,home_win
+Villarreal,Sevilla,1.0,1.0,Match Finished,2022,draw
+Mallorca,Almeria,1.0,0.0,Match Finished,2022,home_win
+Getafe,Valladolid,2.0,3.0,Match Finished,2022,away_win
+Cadiz,Villarreal,0.0,0.0,Match Finished,2022,draw
+Espanyol,Valencia,2.0,2.0,Match Finished,2022,draw
+Girona,Real Sociedad,3.0,5.0,Match Finished,2022,away_win
+Sevilla,Atletico Madrid,0.0,2.0,Match Finished,2022,away_win
+Mallorca,Barcelona,0.0,1.0,Match Finished,2022,away_win
+Celta Vigo,Real Betis,1.0,0.0,Match Finished,2022,home_win
+Rayo Vallecano,Elche,2.0,1.0,Match Finished,2022,home_win
+Real Madrid,Osasuna,1.0,1.0,Match Finished,2022,draw
+Athletic Club,Almeria,4.0,0.0,Match Finished,2022,home_win
+Atletico Madrid,Girona,2.0,1.0,Match Finished,2022,home_win
+Barcelona,Celta Vigo,1.0,0.0,Match Finished,2022,home_win
+Elche,Mallorca,1.0,1.0,Match Finished,2022,draw
+Getafe,Real Madrid,0.0,1.0,Match Finished,2022,away_win
+Cadiz,Espanyol,2.0,2.0,Match Finished,2022,draw
+Osasuna,Valencia,1.0,2.0,Match Finished,2022,away_win
+Real Sociedad,Villarreal,1.0,0.0,Match Finished,2022,home_win
+Almeria,Rayo Vallecano,3.0,1.0,Match Finished,2022,home_win
+Sevilla,Athletic Club,1.0,1.0,Match Finished,2022,draw
+Valladolid,Real Betis,0.0,0.0,Match Finished,2022,draw
+Athletic Club,Atletico Madrid,0.0,1.0,Match Finished,2022,away_win
+Celta Vigo,Real Sociedad,1.0,2.0,Match Finished,2022,away_win
+Mallorca,Sevilla,0.0,1.0,Match Finished,2022,away_win
+Espanyol,Valladolid,1.0,0.0,Match Finished,2022,home_win
+Real Madrid,Barcelona,3.0,1.0,Match Finished,2022,home_win
+Valencia,Elche,2.0,2.0,Match Finished,2022,draw
+Rayo Vallecano,Getafe,0.0,0.0,Match Finished,2022,draw
+Girona,Cadiz,1.0,1.0,Match Finished,2022,draw
+Villarreal,Osasuna,2.0,0.0,Match Finished,2022,home_win
+Real Betis,Almeria,3.0,1.0,Match Finished,2022,home_win
+Atletico Madrid,Rayo Vallecano,1.0,1.0,Match Finished,2022,draw
+Barcelona,Villarreal,3.0,0.0,Match Finished,2022,home_win
+Elche,Real Madrid,0.0,3.0,Match Finished,2022,away_win
+Sevilla,Valencia,1.0,1.0,Match Finished,2022,draw
+Almeria,Girona,3.0,2.0,Match Finished,2022,home_win
+Getafe,Athletic Club,2.0,2.0,Match Finished,2022,draw
+Cadiz,Real Betis,0.0,0.0,Match Finished,2022,draw
+Valladolid,Celta Vigo,4.0,1.0,Match Finished,2022,home_win
+Real Sociedad,Mallorca,1.0,0.0,Match Finished,2022,home_win
+Osasuna,Espanyol,1.0,0.0,Match Finished,2022,home_win
+Celta Vigo,Getafe,1.0,1.0,Match Finished,2022,draw
+Real Madrid,Sevilla,3.0,1.0,Match Finished,2022,home_win
+Girona,Osasuna,1.0,1.0,Match Finished,2022,draw
+Barcelona,Athletic Club,4.0,0.0,Match Finished,2022,home_win
+Real Betis,Atletico Madrid,1.0,2.0,Match Finished,2022,away_win
+Espanyol,Elche,2.0,2.0,Match Finished,2022,draw
+Valencia,Mallorca,1.0,2.0,Match Finished,2022,away_win
+Rayo Vallecano,Cadiz,5.0,1.0,Match Finished,2022,home_win
+Valladolid,Real Sociedad,1.0,0.0,Match Finished,2022,home_win
+Villarreal,Almeria,2.0,1.0,Match Finished,2022,home_win
+Athletic Club,Villarreal,1.0,0.0,Match Finished,2022,home_win
+Elche,Getafe,0.0,1.0,Match Finished,2022,away_win
+Osasuna,Valladolid,2.0,0.0,Match Finished,2022,home_win
+Almeria,Celta Vigo,3.0,1.0,Match Finished,2022,home_win
+Cadiz,Atletico Madrid,3.0,2.0,Match Finished,2022,home_win
+Valencia,Barcelona,0.0,1.0,Match Finished,2022,away_win
+Real Sociedad,Real Betis,0.0,2.0,Match Finished,2022,away_win
+Mallorca,Espanyol,1.0,1.0,Match Finished,2022,draw
+Sevilla,Rayo Vallecano,0.0,1.0,Match Finished,2022,away_win
+Real Madrid,Girona,1.0,1.0,Match Finished,2022,draw
+Atletico Madrid,Espanyol,1.0,1.0,Match Finished,2022,draw
+Real Betis,Sevilla,1.0,1.0,Match Finished,2022,draw
+Celta Vigo,Osasuna,1.0,2.0,Match Finished,2022,away_win
+Real Sociedad,Valencia,1.0,1.0,Match Finished,2022,draw
+Rayo Vallecano,Real Madrid,3.0,2.0,Match Finished,2022,home_win
+Girona,Athletic Club,2.0,1.0,Match Finished,2022,home_win
+Valladolid,Elche,2.0,1.0,Match Finished,2022,home_win
+Villarreal,Mallorca,0.0,2.0,Match Finished,2022,away_win
+Getafe,Cadiz,0.0,0.0,Match Finished,2022,draw
+Barcelona,Almeria,2.0,0.0,Match Finished,2022,home_win
+Athletic Club,Valladolid,3.0,0.0,Match Finished,2022,home_win
+Elche,Girona,1.0,2.0,Match Finished,2022,away_win
+Espanyol,Villarreal,0.0,1.0,Match Finished,2022,away_win
+Almeria,Getafe,1.0,0.0,Match Finished,2022,home_win
+Mallorca,Atletico Madrid,1.0,0.0,Match Finished,2022,home_win
+Osasuna,Barcelona,1.0,2.0,Match Finished,2022,away_win
+Valencia,Real Betis,3.0,0.0,Match Finished,2022,home_win
+Rayo Vallecano,Celta Vigo,0.0,0.0,Match Finished,2022,draw
+Real Madrid,Cadiz,2.0,1.0,Match Finished,2022,home_win
+Sevilla,Real Sociedad,1.0,2.0,Match Finished,2022,away_win
+Atletico Madrid,Elche,2.0,0.0,Match Finished,2022,home_win
+Barcelona,Espanyol,1.0,1.0,Match Finished,2022,draw
+Celta Vigo,Sevilla,1.0,1.0,Match Finished,2022,draw
+Getafe,Mallorca,2.0,0.0,Match Finished,2022,home_win
+Girona,Rayo Vallecano,2.0,2.0,Match Finished,2022,draw
+Real Betis,Athletic Club,0.0,0.0,Match Finished,2022,draw
+Real Sociedad,Osasuna,2.0,0.0,Match Finished,2022,home_win
+Valladolid,Real Madrid,0.0,2.0,Match Finished,2022,away_win
+Villarreal,Valencia,2.0,1.0,Match Finished,2022,home_win
+Cadiz,Almeria,1.0,1.0,Match Finished,2022,draw
+Athletic Club,Osasuna,0.0,0.0,Match Finished,2022,draw
+Atletico Madrid,Barcelona,0.0,1.0,Match Finished,2022,away_win
+Mallorca,Valladolid,1.0,0.0,Match Finished,2022,home_win
+Espanyol,Girona,2.0,2.0,Match Finished,2022,draw
+Almeria,Real Sociedad,0.0,2.0,Match Finished,2022,away_win
+Rayo Vallecano,Real Betis,1.0,2.0,Match Finished,2022,away_win
+Elche,Celta Vigo,0.0,1.0,Match Finished,2022,away_win
+Sevilla,Getafe,2.0,1.0,Match Finished,2022,home_win
+Valencia,Cadiz,0.0,1.0,Match Finished,2022,away_win
+Villarreal,Real Madrid,2.0,1.0,Match Finished,2022,home_win
+Celta Vigo,Villarreal,1.0,1.0,Match Finished,2022,draw
+Cadiz,Elche,1.0,1.0,Match Finished,2022,draw
+Real Madrid,Valencia,2.0,0.0,Match Finished,2022,home_win
+Almeria,Atletico Madrid,1.0,1.0,Match Finished,2022,draw
+Girona,Sevilla,2.0,1.0,Match Finished,2022,home_win
+Real Sociedad,Athletic Club,3.0,1.0,Match Finished,2022,home_win
+Real Betis,Barcelona,1.0,2.0,Match Finished,2022,away_win
+Osasuna,Mallorca,1.0,0.0,Match Finished,2022,home_win
+Getafe,Espanyol,1.0,2.0,Match Finished,2022,away_win
+Valladolid,Rayo Vallecano,0.0,1.0,Match Finished,2022,away_win
+Athletic Club,Real Madrid,0.0,2.0,Match Finished,2022,away_win
+Atletico Madrid,Valladolid,3.0,0.0,Match Finished,2022,home_win
+Barcelona,Getafe,1.0,0.0,Match Finished,2022,home_win
+Elche,Osasuna,1.0,1.0,Match Finished,2022,draw
+Rayo Vallecano,Real Sociedad,0.0,2.0,Match Finished,2022,away_win
+Espanyol,Real Betis,1.0,0.0,Match Finished,2022,home_win
+Mallorca,Celta Vigo,1.0,0.0,Match Finished,2022,home_win
+Sevilla,Cadiz,1.0,0.0,Match Finished,2022,home_win
+Valencia,Almeria,2.0,2.0,Match Finished,2022,draw
+Villarreal,Girona,1.0,0.0,Match Finished,2022,home_win
+Cadiz,Mallorca,2.0,0.0,Match Finished,2022,home_win
+Real Madrid,Real Sociedad,0.0,0.0,Match Finished,2022,draw
+Almeria,Espanyol,3.0,1.0,Match Finished,2022,home_win
+Celta Vigo,Athletic Club,1.0,0.0,Match Finished,2022,home_win
+Osasuna,Atletico Madrid,0.0,1.0,Match Finished,2022,away_win
+Girona,Barcelona,0.0,1.0,Match Finished,2022,away_win
+Getafe,Real Betis,0.0,1.0,Match Finished,2022,away_win
+Sevilla,Elche,3.0,0.0,Match Finished,2022,home_win
+Valladolid,Valencia,1.0,0.0,Match Finished,2022,home_win
+Villarreal,Rayo Vallecano,0.0,1.0,Match Finished,2022,away_win
+Athletic Club,Cadiz,4.0,1.0,Match Finished,2022,home_win
+Atletico Madrid,Getafe,1.0,1.0,Match Finished,2022,draw
+Barcelona,Sevilla,3.0,0.0,Match Finished,2022,home_win
+Real Betis,Celta Vigo,3.0,4.0,Match Finished,2022,away_win
+Elche,Villarreal,3.0,1.0,Match Finished,2022,home_win
+Mallorca,Real Madrid,1.0,0.0,Match Finished,2022,home_win
+Espanyol,Osasuna,1.0,1.0,Match Finished,2022,draw
+Real Sociedad,Valladolid,0.0,1.0,Match Finished,2022,away_win
+Girona,Valencia,1.0,0.0,Match Finished,2022,home_win
+Rayo Vallecano,Almeria,2.0,0.0,Match Finished,2022,home_win
+Getafe,Rayo Vallecano,1.0,1.0,Match Finished,2022,draw
+Cadiz,Girona,2.0,0.0,Match Finished,2022,home_win
+Espanyol,Real Sociedad,2.0,3.0,Match Finished,2022,away_win
+Almeria,Real Betis,2.0,3.0,Match Finished,2022,away_win
+Valencia,Athletic Club,1.0,2.0,Match Finished,2022,away_win
+Celta Vigo,Atletico Madrid,0.0,1.0,Match Finished,2022,away_win
+Villarreal,Barcelona,0.0,1.0,Match Finished,2022,away_win
+Real Madrid,Elche,4.0,0.0,Match Finished,2022,home_win
+Sevilla,Mallorca,2.0,0.0,Match Finished,2022,home_win
+Valladolid,Osasuna,0.0,0.0,Match Finished,2022,draw
+Barcelona,Cadiz,2.0,0.0,Match Finished,2022,home_win
+Real Betis,Valladolid,2.0,1.0,Match Finished,2022,home_win
+Elche,Espanyol,0.0,1.0,Match Finished,2022,away_win
+Mallorca,Villarreal,4.0,2.0,Match Finished,2022,home_win
+Getafe,Valencia,1.0,0.0,Match Finished,2022,home_win
+Osasuna,Real Madrid,0.0,2.0,Match Finished,2022,away_win
+Rayo Vallecano,Sevilla,1.0,1.0,Match Finished,2022,draw
+Atletico Madrid,Athletic Club,1.0,0.0,Match Finished,2022,home_win
+Real Sociedad,Celta Vigo,1.0,1.0,Match Finished,2022,draw
+Girona,Almeria,6.0,2.0,Match Finished,2022,home_win
+Athletic Club,Girona,2.0,3.0,Match Finished,2022,away_win
+Celta Vigo,Valladolid,3.0,0.0,Match Finished,2022,home_win
+Cadiz,Rayo Vallecano,1.0,0.0,Match Finished,2022,home_win
+Espanyol,Mallorca,2.0,1.0,Match Finished,2022,home_win
+Almeria,Barcelona,1.0,0.0,Match Finished,2022,home_win
+Real Madrid,Atletico Madrid,1.0,1.0,Match Finished,2022,draw
+Elche,Real Betis,2.0,3.0,Match Finished,2022,away_win
+Villarreal,Getafe,2.0,1.0,Match Finished,2022,home_win
+Sevilla,Osasuna,2.0,3.0,Match Finished,2022,away_win
+Valencia,Real Sociedad,1.0,0.0,Match Finished,2022,home_win
+Atletico Madrid,Sevilla,6.0,1.0,Match Finished,2022,home_win
+Barcelona,Valencia,1.0,0.0,Match Finished,2022,home_win
+Real Betis,Real Madrid,0.0,0.0,Match Finished,2022,draw
+Getafe,Girona,3.0,2.0,Match Finished,2022,home_win
+Almeria,Villarreal,0.0,2.0,Match Finished,2022,away_win
+Rayo Vallecano,Athletic Club,0.0,0.0,Match Finished,2022,draw
+Osasuna,Celta Vigo,0.0,0.0,Match Finished,2022,draw
+Mallorca,Elche,0.0,1.0,Match Finished,2022,away_win
+Real Sociedad,Cadiz,0.0,0.0,Match Finished,2022,draw
+Valladolid,Espanyol,2.0,1.0,Match Finished,2022,home_win
+Athletic Club,Barcelona,0.0,1.0,Match Finished,2022,away_win
+Celta Vigo,Rayo Vallecano,3.0,0.0,Match Finished,2022,home_win
+Elche,Valladolid,1.0,1.0,Match Finished,2022,draw
+Mallorca,Real Sociedad,1.0,1.0,Match Finished,2022,draw
+Cadiz,Getafe,2.0,2.0,Match Finished,2022,draw
+Girona,Atletico Madrid,0.0,1.0,Match Finished,2022,away_win
+Villarreal,Real Betis,1.0,1.0,Match Finished,2022,draw
+Real Madrid,Espanyol,3.0,1.0,Match Finished,2022,home_win
+Valencia,Osasuna,1.0,0.0,Match Finished,2022,home_win
+Sevilla,Almeria,2.0,1.0,Match Finished,2022,home_win
+Atletico Madrid,Valencia,3.0,0.0,Match Finished,2022,home_win
+Barcelona,Real Madrid,2.0,1.0,Match Finished,2022,home_win
+Real Betis,Mallorca,1.0,0.0,Match Finished,2022,home_win
+Getafe,Sevilla,2.0,0.0,Match Finished,2022,home_win
+Osasuna,Villarreal,0.0,3.0,Match Finished,2022,away_win
+Almeria,Cadiz,1.0,1.0,Match Finished,2022,draw
+Valladolid,Athletic Club,1.0,3.0,Match Finished,2022,away_win
+Espanyol,Celta Vigo,1.0,3.0,Match Finished,2022,away_win
+Real Sociedad,Elche,2.0,0.0,Match Finished,2022,home_win
+Rayo Vallecano,Girona,2.0,2.0,Match Finished,2022,draw
+Athletic Club,Getafe,0.0,0.0,Match Finished,2022,draw
+Atletico Madrid,Real Betis,1.0,0.0,Match Finished,2022,home_win
+Mallorca,Osasuna,0.0,0.0,Match Finished,2022,draw
+Cadiz,Sevilla,0.0,2.0,Match Finished,2022,away_win
+Real Madrid,Valladolid,6.0,0.0,Match Finished,2022,home_win
+Elche,Barcelona,0.0,4.0,Match Finished,2022,away_win
+Girona,Espanyol,2.0,1.0,Match Finished,2022,home_win
+Villarreal,Real Sociedad,2.0,0.0,Match Finished,2022,home_win
+Valencia,Rayo Vallecano,1.0,1.0,Match Finished,2022,draw
+Celta Vigo,Almeria,2.0,2.0,Match Finished,2022,draw
+Barcelona,Girona,0.0,0.0,Match Finished,2022,draw
+Real Betis,Cadiz,0.0,2.0,Match Finished,2022,away_win
+Real Madrid,Villarreal,2.0,3.0,Match Finished,2022,away_win
+Almeria,Valencia,2.0,1.0,Match Finished,2022,home_win
+Espanyol,Athletic Club,1.0,2.0,Match Finished,2022,away_win
+Rayo Vallecano,Atletico Madrid,1.0,2.0,Match Finished,2022,away_win
+Sevilla,Celta Vigo,2.0,2.0,Match Finished,2022,draw
+Osasuna,Elche,2.0,1.0,Match Finished,2022,home_win
+Valladolid,Mallorca,3.0,3.0,Match Finished,2022,draw
+Real Sociedad,Getafe,2.0,0.0,Match Finished,2022,home_win
+Athletic Club,Real Sociedad,2.0,0.0,Match Finished,2022,home_win
+Real Betis,Espanyol,3.0,1.0,Match Finished,2022,home_win
+Celta Vigo,Mallorca,0.0,1.0,Match Finished,2022,away_win
+Cadiz,Real Madrid,0.0,2.0,Match Finished,2022,away_win
+Villarreal,Valladolid,1.0,2.0,Match Finished,2022,away_win
+Getafe,Barcelona,0.0,0.0,Match Finished,2022,draw
+Girona,Elche,2.0,0.0,Match Finished,2022,home_win
+Rayo Vallecano,Osasuna,2.0,1.0,Match Finished,2022,home_win
+Valencia,Sevilla,0.0,2.0,Match Finished,2022,away_win
+Atletico Madrid,Almeria,2.0,1.0,Match Finished,2022,home_win
+Elche,Valencia,0.0,2.0,Match Finished,2022,away_win
+Sevilla,Villarreal,2.0,1.0,Match Finished,2022,home_win
+Almeria,Athletic Club,1.0,2.0,Match Finished,2022,away_win
+Barcelona,Atletico Madrid,1.0,0.0,Match Finished,2022,home_win
+Osasuna,Real Betis,3.0,2.0,Match Finished,2022,home_win
+Real Madrid,Celta Vigo,2.0,0.0,Match Finished,2022,home_win
+Mallorca,Getafe,3.0,1.0,Match Finished,2022,home_win
+Espanyol,Cadiz,0.0,0.0,Match Finished,2022,draw
+Real Sociedad,Rayo Vallecano,2.0,1.0,Match Finished,2022,home_win
+Valladolid,Girona,1.0,0.0,Match Finished,2022,home_win
+Athletic Club,Sevilla,0.0,1.0,Match Finished,2022,away_win
+Atletico Madrid,Mallorca,3.0,1.0,Match Finished,2022,home_win
+Real Betis,Real Sociedad,0.0,0.0,Match Finished,2022,draw
+Celta Vigo,Elche,1.0,0.0,Match Finished,2022,home_win
+Cadiz,Osasuna,0.0,1.0,Match Finished,2022,away_win
+Valencia,Valladolid,2.0,1.0,Match Finished,2022,home_win
+Girona,Real Madrid,4.0,2.0,Match Finished,2022,home_win
+Rayo Vallecano,Barcelona,2.0,1.0,Match Finished,2022,home_win
+Villarreal,Espanyol,4.0,2.0,Match Finished,2022,home_win
+Getafe,Almeria,1.0,2.0,Match Finished,2022,away_win
+Barcelona,Real Betis,4.0,0.0,Match Finished,2022,home_win
+Elche,Rayo Vallecano,4.0,0.0,Match Finished,2022,home_win
+Cadiz,Valencia,2.0,1.0,Match Finished,2022,home_win
+Espanyol,Getafe,1.0,0.0,Match Finished,2022,home_win
+Osasuna,Real Sociedad,0.0,2.0,Match Finished,2022,away_win
+Mallorca,Athletic Club,1.0,1.0,Match Finished,2022,draw
+Valladolid,Atletico Madrid,2.0,5.0,Match Finished,2022,away_win
+Villarreal,Celta Vigo,3.0,1.0,Match Finished,2022,home_win
+Real Madrid,Almeria,4.0,2.0,Match Finished,2022,home_win
+Sevilla,Girona,0.0,2.0,Match Finished,2022,away_win
+Athletic Club,Real Betis,0.0,1.0,Match Finished,2022,away_win
+Atletico Madrid,Cadiz,5.0,1.0,Match Finished,2022,home_win
+Barcelona,Osasuna,1.0,0.0,Match Finished,2022,home_win
+Valencia,Villarreal,1.0,1.0,Match Finished,2022,draw
+Rayo Vallecano,Valladolid,2.0,1.0,Match Finished,2022,home_win
+Almeria,Elche,2.0,1.0,Match Finished,2022,home_win
+Girona,Mallorca,2.0,1.0,Match Finished,2022,home_win
+Getafe,Celta Vigo,1.0,0.0,Match Finished,2022,home_win
+Sevilla,Espanyol,3.0,2.0,Match Finished,2022,home_win
+Real Sociedad,Real Madrid,2.0,0.0,Match Finished,2022,home_win
+Real Betis,Rayo Vallecano,3.0,1.0,Match Finished,2022,home_win
+Celta Vigo,Valencia,1.0,2.0,Match Finished,2022,away_win
+Villarreal,Athletic Club,5.0,1.0,Match Finished,2022,home_win
+Elche,Atletico Madrid,1.0,0.0,Match Finished,2022,home_win
+Espanyol,Barcelona,2.0,4.0,Match Finished,2022,away_win
+Real Madrid,Getafe,1.0,0.0,Match Finished,2022,home_win
+Mallorca,Cadiz,1.0,0.0,Match Finished,2022,home_win
+Valladolid,Sevilla,0.0,3.0,Match Finished,2022,away_win
+Osasuna,Almeria,3.0,1.0,Match Finished,2022,home_win
+Real Sociedad,Girona,2.0,2.0,Match Finished,2022,draw
+Athletic Club,Celta Vigo,2.0,1.0,Match Finished,2022,home_win
+Atletico Madrid,Osasuna,3.0,0.0,Match Finished,2022,home_win
+Barcelona,Real Sociedad,1.0,2.0,Match Finished,2022,away_win
+Cadiz,Valladolid,2.0,0.0,Match Finished,2022,home_win
+Almeria,Mallorca,3.0,0.0,Match Finished,2022,home_win
+Girona,Villarreal,1.0,2.0,Match Finished,2022,away_win
+Sevilla,Real Betis,0.0,0.0,Match Finished,2022,draw
+Getafe,Elche,1.0,1.0,Match Finished,2022,draw
+Rayo Vallecano,Espanyol,1.0,2.0,Match Finished,2022,away_win
+Valencia,Real Madrid,1.0,0.0,Match Finished,2022,home_win
+Real Betis,Getafe,0.0,1.0,Match Finished,2022,away_win
+Celta Vigo,Girona,1.0,1.0,Match Finished,2022,draw
+Elche,Sevilla,1.0,1.0,Match Finished,2022,draw
+Mallorca,Valencia,1.0,0.0,Match Finished,2022,home_win
+Osasuna,Athletic Club,2.0,0.0,Match Finished,2022,home_win
+Espanyol,Atletico Madrid,3.0,3.0,Match Finished,2022,draw
+Valladolid,Barcelona,3.0,1.0,Match Finished,2022,home_win
+Villarreal,Cadiz,2.0,0.0,Match Finished,2022,home_win
+Real Madrid,Rayo Vallecano,2.0,1.0,Match Finished,2022,home_win
+Real Sociedad,Almeria,1.0,0.0,Match Finished,2022,home_win
+Athletic Club,Elche,0.0,1.0,Match Finished,2022,away_win
+Atletico Madrid,Real Sociedad,2.0,1.0,Match Finished,2022,home_win
+Barcelona,Mallorca,3.0,0.0,Match Finished,2022,home_win
+Getafe,Osasuna,2.0,1.0,Match Finished,2022,home_win
+Cadiz,Celta Vigo,1.0,0.0,Match Finished,2022,home_win
+Rayo Vallecano,Villarreal,2.0,1.0,Match Finished,2022,home_win
+Almeria,Valladolid,0.0,0.0,Match Finished,2022,draw
+Girona,Real Betis,1.0,2.0,Match Finished,2022,away_win
+Valencia,Espanyol,2.0,2.0,Match Finished,2022,draw
+Sevilla,Real Madrid,1.0,2.0,Match Finished,2022,away_win
+Real Betis,Valencia,1.0,1.0,Match Finished,2022,draw
+Mallorca,Rayo Vallecano,3.0,0.0,Match Finished,2022,home_win
+Real Sociedad,Sevilla,2.0,1.0,Match Finished,2022,home_win
+Real Madrid,Athletic Club,1.0,1.0,Match Finished,2022,draw
+Villarreal,Atletico Madrid,2.0,2.0,Match Finished,2022,draw
+Celta Vigo,Barcelona,2.0,1.0,Match Finished,2022,home_win
+Valladolid,Getafe,0.0,0.0,Match Finished,2022,draw
+Elche,Cadiz,1.0,1.0,Match Finished,2022,draw
+Espanyol,Almeria,3.0,3.0,Match Finished,2022,draw
+Osasuna,Girona,2.0,1.0,Match Finished,2022,home_win
+Almeria,Rayo Vallecano,0.0,2.0,Match Finished,2023,away_win
+Sevilla,Valencia,1.0,2.0,Match Finished,2023,away_win
+Real Sociedad,Girona,1.0,1.0,Match Finished,2023,draw
+Las Palmas,Mallorca,1.0,1.0,Match Finished,2023,draw
+Athletic Club,Real Madrid,0.0,2.0,Match Finished,2023,away_win
+Celta Vigo,Osasuna,0.0,2.0,Match Finished,2023,away_win
+Villarreal,Real Betis,1.0,2.0,Match Finished,2023,away_win
+Getafe,Barcelona,0.0,0.0,Match Finished,2023,draw
+Cadiz,Alaves,1.0,0.0,Match Finished,2023,home_win
+Atletico Madrid,Granada CF,3.0,1.0,Match Finished,2023,home_win
+Mallorca,Villarreal,0.0,1.0,Match Finished,2023,away_win
+Valencia,Las Palmas,1.0,0.0,Match Finished,2023,home_win
+Real Sociedad,Celta Vigo,1.0,1.0,Match Finished,2023,draw
+Almeria,Real Madrid,1.0,3.0,Match Finished,2023,away_win
+Osasuna,Athletic Club,0.0,2.0,Match Finished,2023,away_win
+Girona,Getafe,3.0,0.0,Match Finished,2023,home_win
+Barcelona,Cadiz,2.0,0.0,Match Finished,2023,home_win
+Real Betis,Atletico Madrid,0.0,0.0,Match Finished,2023,draw
+Alaves,Sevilla,4.0,3.0,Match Finished,2023,home_win
+Granada CF,Rayo Vallecano,0.0,2.0,Match Finished,2023,away_win
+Las Palmas,Real Sociedad,0.0,0.0,Match Finished,2023,draw
+Celta Vigo,Real Madrid,0.0,1.0,Match Finished,2023,away_win
+Granada CF,Mallorca,3.0,2.0,Match Finished,2023,home_win
+Cadiz,Almeria,1.0,1.0,Match Finished,2023,draw
+Sevilla,Girona,1.0,2.0,Match Finished,2023,away_win
+Villarreal,Barcelona,3.0,4.0,Match Finished,2023,away_win
+Valencia,Osasuna,1.0,2.0,Match Finished,2023,away_win
+Athletic Club,Real Betis,4.0,2.0,Match Finished,2023,home_win
+Getafe,Alaves,1.0,0.0,Match Finished,2023,home_win
+Rayo Vallecano,Atletico Madrid,0.0,7.0,Match Finished,2023,away_win
+Cadiz,Villarreal,3.0,1.0,Match Finished,2023,home_win
+Almeria,Celta Vigo,2.0,3.0,Match Finished,2023,away_win
+Real Sociedad,Granada CF,5.0,3.0,Match Finished,2023,home_win
+Real Madrid,Getafe,2.0,1.0,Match Finished,2023,home_win
+Alaves,Valencia,1.0,0.0,Match Finished,2023,home_win
+Real Betis,Rayo Vallecano,1.0,0.0,Match Finished,2023,home_win
+Girona,Las Palmas,1.0,0.0,Match Finished,2023,home_win
+Mallorca,Athletic Club,0.0,0.0,Match Finished,2023,draw
+Osasuna,Barcelona,1.0,2.0,Match Finished,2023,away_win
+Atletico Madrid,Sevilla,1.0,0.0,Match Finished,2023,home_win
+Rayo Vallecano,Alaves,2.0,0.0,Match Finished,2023,home_win
+Athletic Club,Cadiz,3.0,0.0,Match Finished,2023,home_win
+Valencia,Atletico Madrid,3.0,0.0,Match Finished,2023,home_win
+Celta Vigo,Mallorca,0.0,1.0,Match Finished,2023,away_win
+Barcelona,Real Betis,5.0,0.0,Match Finished,2023,home_win
+Getafe,Osasuna,3.0,2.0,Match Finished,2023,home_win
+Villarreal,Almeria,2.0,1.0,Match Finished,2023,home_win
+Sevilla,Las Palmas,1.0,0.0,Match Finished,2023,home_win
+Real Madrid,Real Sociedad,2.0,1.0,Match Finished,2023,home_win
+Granada CF,Girona,2.0,4.0,Match Finished,2023,away_win
+Alaves,Athletic Club,0.0,2.0,Match Finished,2023,away_win
+Girona,Mallorca,5.0,3.0,Match Finished,2023,home_win
+Osasuna,Sevilla,0.0,0.0,Match Finished,2023,draw
+Barcelona,Celta Vigo,3.0,2.0,Match Finished,2023,home_win
+Almeria,Valencia,2.0,2.0,Match Finished,2023,draw
+Real Sociedad,Getafe,4.0,3.0,Match Finished,2023,home_win
+Rayo Vallecano,Villarreal,1.0,1.0,Match Finished,2023,draw
+Real Betis,Cadiz,1.0,1.0,Match Finished,2023,draw
+Las Palmas,Granada CF,1.0,0.0,Match Finished,2023,home_win
+Atletico Madrid,Real Madrid,3.0,1.0,Match Finished,2023,home_win
+Sevilla,Almeria,5.0,1.0,Match Finished,2023,home_win
+Mallorca,Barcelona,2.0,2.0,Match Finished,2023,draw
+Athletic Club,Getafe,2.0,2.0,Match Finished,2023,draw
+Villarreal,Girona,1.0,2.0,Match Finished,2023,away_win
+Real Madrid,Las Palmas,2.0,0.0,Match Finished,2023,home_win
+Cadiz,Rayo Vallecano,0.0,0.0,Match Finished,2023,draw
+Valencia,Real Sociedad,0.0,1.0,Match Finished,2023,away_win
+Granada CF,Real Betis,1.0,1.0,Match Finished,2023,draw
+Celta Vigo,Alaves,1.0,1.0,Match Finished,2023,draw
+Osasuna,Atletico Madrid,0.0,2.0,Match Finished,2023,away_win
+Barcelona,Sevilla,1.0,0.0,Match Finished,2023,home_win
+Getafe,Villarreal,0.0,0.0,Match Finished,2023,draw
+Rayo Vallecano,Mallorca,2.0,2.0,Match Finished,2023,draw
+Girona,Real Madrid,0.0,3.0,Match Finished,2023,away_win
+Real Sociedad,Athletic Club,3.0,0.0,Match Finished,2023,home_win
+Almeria,Granada CF,3.0,3.0,Match Finished,2023,draw
+Alaves,Osasuna,0.0,2.0,Match Finished,2023,away_win
+Atletico Madrid,Cadiz,3.0,2.0,Match Finished,2023,home_win
+Real Betis,Valencia,3.0,0.0,Match Finished,2023,home_win
+Las Palmas,Celta Vigo,2.0,1.0,Match Finished,2023,home_win
+Athletic Club,Almeria,3.0,0.0,Match Finished,2023,home_win
+Cadiz,Girona,0.0,1.0,Match Finished,2023,away_win
+Real Madrid,Osasuna,4.0,0.0,Match Finished,2023,home_win
+Mallorca,Valencia,1.0,1.0,Match Finished,2023,draw
+Sevilla,Rayo Vallecano,2.0,2.0,Match Finished,2023,draw
+Villarreal,Las Palmas,1.0,2.0,Match Finished,2023,away_win
+Atletico Madrid,Real Sociedad,2.0,1.0,Match Finished,2023,home_win
+Celta Vigo,Getafe,2.0,2.0,Match Finished,2023,draw
+Alaves,Real Betis,1.0,1.0,Match Finished,2023,draw
+Granada CF,Barcelona,2.0,2.0,Match Finished,2023,draw
+Osasuna,Granada CF,2.0,0.0,Match Finished,2023,home_win
+Real Sociedad,Mallorca,1.0,0.0,Match Finished,2023,home_win
+Getafe,Real Betis,1.0,1.0,Match Finished,2023,draw
+Sevilla,Real Madrid,1.0,1.0,Match Finished,2023,draw
+Celta Vigo,Atletico Madrid,0.0,3.0,Match Finished,2023,away_win
+Las Palmas,Rayo Vallecano,0.0,1.0,Match Finished,2023,away_win
+Girona,Almeria,5.0,2.0,Match Finished,2023,home_win
+Villarreal,Alaves,1.0,1.0,Match Finished,2023,draw
+Barcelona,Athletic Club,1.0,0.0,Match Finished,2023,home_win
+Valencia,Cadiz,2.0,0.0,Match Finished,2023,home_win
+Girona,Celta Vigo,1.0,0.0,Match Finished,2023,home_win
+Almeria,Las Palmas,1.0,2.0,Match Finished,2023,away_win
+Barcelona,Real Madrid,1.0,2.0,Match Finished,2023,away_win
+Mallorca,Getafe,0.0,0.0,Match Finished,2023,draw
+Cadiz,Sevilla,2.0,2.0,Match Finished,2023,draw
+Real Betis,Osasuna,2.0,1.0,Match Finished,2023,home_win
+Rayo Vallecano,Real Sociedad,2.0,2.0,Match Finished,2023,draw
+Athletic Club,Valencia,2.0,2.0,Match Finished,2023,draw
+Atletico Madrid,Alaves,2.0,1.0,Match Finished,2023,home_win
+Granada CF,Villarreal,2.0,3.0,Match Finished,2023,away_win
+Las Palmas,Atletico Madrid,2.0,1.0,Match Finished,2023,home_win
+Osasuna,Girona,2.0,4.0,Match Finished,2023,away_win
+Real Betis,Mallorca,2.0,0.0,Match Finished,2023,home_win
+Celta Vigo,Sevilla,1.0,1.0,Match Finished,2023,draw
+Real Sociedad,Barcelona,0.0,1.0,Match Finished,2023,away_win
+Alaves,Almeria,1.0,0.0,Match Finished,2023,home_win
+Valencia,Granada CF,1.0,0.0,Match Finished,2023,home_win
+Villarreal,Athletic Club,2.0,3.0,Match Finished,2023,away_win
+Real Madrid,Rayo Vallecano,0.0,0.0,Match Finished,2023,draw
+Getafe,Cadiz,1.0,0.0,Match Finished,2023,home_win
+Athletic Club,Celta Vigo,4.0,3.0,Match Finished,2023,home_win
+Rayo Vallecano,Girona,1.0,2.0,Match Finished,2023,away_win
+Almeria,Real Sociedad,1.0,3.0,Match Finished,2023,away_win
+Granada CF,Getafe,1.0,1.0,Match Finished,2023,draw
+Osasuna,Las Palmas,1.0,1.0,Match Finished,2023,draw
+Real Madrid,Valencia,5.0,1.0,Match Finished,2023,home_win
+Barcelona,Alaves,2.0,1.0,Match Finished,2023,home_win
+Sevilla,Real Betis,1.0,1.0,Match Finished,2023,draw
+Atletico Madrid,Villarreal,3.0,1.0,Match Finished,2023,home_win
+Mallorca,Cadiz,1.0,1.0,Match Finished,2023,draw
+Alaves,Granada CF,3.0,1.0,Match Finished,2023,home_win
+Rayo Vallecano,Barcelona,1.0,1.0,Match Finished,2023,draw
+Valencia,Celta Vigo,0.0,0.0,Match Finished,2023,draw
+Getafe,Almeria,2.0,1.0,Match Finished,2023,home_win
+Atletico Madrid,Mallorca,1.0,0.0,Match Finished,2023,home_win
+Villarreal,Osasuna,3.0,1.0,Match Finished,2023,home_win
+Real Sociedad,Sevilla,2.0,1.0,Match Finished,2023,home_win
+Cadiz,Real Madrid,0.0,3.0,Match Finished,2023,away_win
+Real Betis,Las Palmas,1.0,0.0,Match Finished,2023,home_win
+Girona,Athletic Club,1.0,1.0,Match Finished,2023,draw
+Las Palmas,Getafe,2.0,0.0,Match Finished,2023,home_win
+Girona,Valencia,2.0,1.0,Match Finished,2023,home_win
+Athletic Club,Rayo Vallecano,4.0,0.0,Match Finished,2023,home_win
+Real Madrid,Granada CF,2.0,0.0,Match Finished,2023,home_win
+Osasuna,Real Sociedad,1.0,1.0,Match Finished,2023,draw
+Mallorca,Alaves,0.0,0.0,Match Finished,2023,draw
+Almeria,Real Betis,0.0,0.0,Match Finished,2023,draw
+Sevilla,Villarreal,1.0,1.0,Match Finished,2023,draw
+Barcelona,Atletico Madrid,1.0,0.0,Match Finished,2023,home_win
+Celta Vigo,Cadiz,1.0,1.0,Match Finished,2023,draw
+Getafe,Valencia,1.0,0.0,Match Finished,2023,home_win
+Alaves,Las Palmas,0.0,1.0,Match Finished,2023,away_win
+Real Betis,Real Madrid,1.0,1.0,Match Finished,2023,draw
+Villarreal,Real Sociedad,0.0,3.0,Match Finished,2023,away_win
+Mallorca,Sevilla,1.0,0.0,Match Finished,2023,home_win
+Atletico Madrid,Almeria,2.0,1.0,Match Finished,2023,home_win
+Cadiz,Osasuna,1.0,1.0,Match Finished,2023,draw
+Barcelona,Girona,2.0,4.0,Match Finished,2023,away_win
+Granada CF,Athletic Club,1.0,1.0,Match Finished,2023,draw
+Rayo Vallecano,Celta Vigo,0.0,0.0,Match Finished,2023,draw
+Osasuna,Rayo Vallecano,1.0,0.0,Match Finished,2023,home_win
+Celta Vigo,Granada CF,1.0,0.0,Match Finished,2023,home_win
+Athletic Club,Atletico Madrid,2.0,0.0,Match Finished,2023,home_win
+Sevilla,Getafe,0.0,3.0,Match Finished,2023,away_win
+Valencia,Barcelona,1.0,1.0,Match Finished,2023,draw
+Almeria,Mallorca,0.0,0.0,Match Finished,2023,draw
+Real Sociedad,Real Betis,0.0,0.0,Match Finished,2023,draw
+Las Palmas,Cadiz,1.0,1.0,Match Finished,2023,draw
+Real Madrid,Villarreal,4.0,1.0,Match Finished,2023,home_win
+Girona,Alaves,3.0,0.0,Match Finished,2023,home_win
+Rayo Vallecano,Valencia,0.0,1.0,Match Finished,2023,away_win
+Atletico Madrid,Getafe,3.0,3.0,Match Finished,2023,draw
+Granada CF,Sevilla,0.0,3.0,Match Finished,2023,away_win
+Barcelona,Almeria,3.0,2.0,Match Finished,2023,home_win
+Athletic Club,Las Palmas,1.0,0.0,Match Finished,2023,home_win
+Villarreal,Celta Vigo,3.0,2.0,Match Finished,2023,home_win
+Real Betis,Girona,1.0,1.0,Match Finished,2023,draw
+Cadiz,Real Sociedad,0.0,0.0,Match Finished,2023,draw
+Mallorca,Osasuna,3.0,2.0,Match Finished,2023,home_win
+Alaves,Real Madrid,0.0,1.0,Match Finished,2023,away_win
+Getafe,Rayo Vallecano,0.0,2.0,Match Finished,2023,away_win
+Real Sociedad,Alaves,1.0,1.0,Match Finished,2023,draw
+Valencia,Villarreal,3.0,1.0,Match Finished,2023,home_win
+Granada CF,Cadiz,2.0,0.0,Match Finished,2023,home_win
+Celta Vigo,Real Betis,2.0,1.0,Match Finished,2023,home_win
+Real Madrid,Mallorca,1.0,0.0,Match Finished,2023,home_win
+Girona,Atletico Madrid,4.0,3.0,Match Finished,2023,home_win
+Osasuna,Almeria,1.0,0.0,Match Finished,2023,home_win
+Sevilla,Athletic Club,0.0,2.0,Match Finished,2023,away_win
+Las Palmas,Barcelona,1.0,2.0,Match Finished,2023,away_win
+Sevilla,Alaves,2.0,3.0,Match Finished,2023,away_win
+Las Palmas,Villarreal,3.0,0.0,Match Finished,2023,home_win
+Mallorca,Celta Vigo,1.0,1.0,Match Finished,2023,draw
+Athletic Club,Real Sociedad,2.0,1.0,Match Finished,2023,home_win
+Real Betis,Granada CF,1.0,0.0,Match Finished,2023,home_win
+Almeria,Girona,0.0,0.0,Match Finished,2023,draw
+Cadiz,Valencia,1.0,4.0,Match Finished,2023,away_win
+Barcelona,Osasuna,1.0,0.0,Match Finished,2023,home_win
+Atletico Madrid,Rayo Vallecano,2.0,1.0,Match Finished,2023,home_win
+Getafe,Real Madrid,0.0,2.0,Match Finished,2023,away_win
+Alaves,Cadiz,1.0,0.0,Match Finished,2023,home_win
+Rayo Vallecano,Las Palmas,0.0,2.0,Match Finished,2023,away_win
+Villarreal,Mallorca,1.0,1.0,Match Finished,2023,draw
+Valencia,Athletic Club,1.0,0.0,Match Finished,2023,home_win
+Celta Vigo,Real Sociedad,0.0,1.0,Match Finished,2023,away_win
+Osasuna,Getafe,3.0,2.0,Match Finished,2023,home_win
+Real Madrid,Almeria,3.0,2.0,Match Finished,2023,home_win
+Real Betis,Barcelona,2.0,4.0,Match Finished,2023,away_win
+Girona,Sevilla,5.0,1.0,Match Finished,2023,home_win
+Granada CF,Atletico Madrid,0.0,1.0,Match Finished,2023,away_win
+Almeria,Alaves,0.0,3.0,Match Finished,2023,away_win
+Real Sociedad,Rayo Vallecano,0.0,0.0,Match Finished,2023,draw
+Las Palmas,Real Madrid,1.0,2.0,Match Finished,2023,away_win
+Barcelona,Villarreal,3.0,5.0,Match Finished,2023,away_win
+Mallorca,Real Betis,0.0,1.0,Match Finished,2023,away_win
+Celta Vigo,Girona,0.0,1.0,Match Finished,2023,away_win
+Cadiz,Athletic Club,0.0,0.0,Match Finished,2023,draw
+Sevilla,Osasuna,1.0,1.0,Match Finished,2023,draw
+Atletico Madrid,Valencia,2.0,0.0,Match Finished,2023,home_win
+Getafe,Granada CF,2.0,0.0,Match Finished,2023,home_win
+Athletic Club,Mallorca,4.0,0.0,Match Finished,2023,home_win
+Valencia,Almeria,2.0,1.0,Match Finished,2023,home_win
+Granada CF,Las Palmas,1.0,1.0,Match Finished,2023,draw
+Alaves,Barcelona,1.0,3.0,Match Finished,2023,away_win
+Girona,Real Sociedad,0.0,0.0,Match Finished,2023,draw
+Villarreal,Cadiz,0.0,0.0,Match Finished,2023,draw
+Osasuna,Celta Vigo,0.0,3.0,Match Finished,2023,away_win
+Real Betis,Getafe,1.0,1.0,Match Finished,2023,draw
+Real Madrid,Atletico Madrid,1.0,1.0,Match Finished,2023,draw
+Rayo Vallecano,Sevilla,1.0,2.0,Match Finished,2023,away_win
+Cadiz,Real Betis,0.0,2.0,Match Finished,2023,away_win
+Alaves,Villarreal,1.0,1.0,Match Finished,2023,draw
+Real Sociedad,Osasuna,0.0,1.0,Match Finished,2023,away_win
+Real Madrid,Girona,4.0,0.0,Match Finished,2023,home_win
+Las Palmas,Valencia,2.0,0.0,Match Finished,2023,home_win
+Getafe,Celta Vigo,3.0,2.0,Match Finished,2023,home_win
+Mallorca,Rayo Vallecano,2.0,1.0,Match Finished,2023,home_win
+Sevilla,Atletico Madrid,1.0,0.0,Match Finished,2023,home_win
+Barcelona,Granada CF,3.0,3.0,Match Finished,2023,draw
+Almeria,Athletic Club,0.0,0.0,Match Finished,2023,draw
+Villarreal,Getafe,1.0,1.0,Match Finished,2023,draw
+Atletico Madrid,Las Palmas,5.0,0.0,Match Finished,2023,home_win
+Osasuna,Cadiz,2.0,0.0,Match Finished,2023,home_win
+Celta Vigo,Barcelona,1.0,2.0,Match Finished,2023,away_win
+Valencia,Sevilla,0.0,0.0,Match Finished,2023,draw
+Rayo Vallecano,Real Madrid,1.0,1.0,Match Finished,2023,draw
+Granada CF,Almeria,1.0,1.0,Match Finished,2023,draw
+Mallorca,Real Sociedad,1.0,2.0,Match Finished,2023,away_win
+Real Betis,Alaves,0.0,0.0,Match Finished,2023,draw
+Athletic Club,Girona,3.0,2.0,Match Finished,2023,home_win
+Real Sociedad,Villarreal,1.0,3.0,Match Finished,2023,away_win
+Barcelona,Getafe,4.0,0.0,Match Finished,2023,home_win
+Alaves,Mallorca,1.0,1.0,Match Finished,2023,draw
+Almeria,Atletico Madrid,2.0,2.0,Match Finished,2023,draw
+Cadiz,Celta Vigo,2.0,2.0,Match Finished,2023,draw
+Real Betis,Athletic Club,3.0,1.0,Match Finished,2023,home_win
+Las Palmas,Osasuna,1.0,1.0,Match Finished,2023,draw
+Real Madrid,Sevilla,1.0,0.0,Match Finished,2023,home_win
+Girona,Rayo Vallecano,3.0,0.0,Match Finished,2023,home_win
+Granada CF,Valencia,0.0,1.0,Match Finished,2023,away_win
+Celta Vigo,Almeria,1.0,0.0,Match Finished,2023,home_win
+Sevilla,Real Sociedad,3.0,2.0,Match Finished,2023,home_win
+Rayo Vallecano,Cadiz,1.0,1.0,Match Finished,2023,draw
+Getafe,Las Palmas,3.0,3.0,Match Finished,2023,draw
+Valencia,Real Madrid,2.0,2.0,Match Finished,2023,draw
+Villarreal,Granada CF,5.0,1.0,Match Finished,2023,home_win
+Atletico Madrid,Real Betis,2.0,1.0,Match Finished,2023,home_win
+Mallorca,Girona,1.0,0.0,Match Finished,2023,home_win
+Athletic Club,Barcelona,0.0,0.0,Match Finished,2023,draw
+Osasuna,Alaves,1.0,0.0,Match Finished,2023,home_win
+Barcelona,Mallorca,1.0,0.0,Match Finished,2023,home_win
+Valencia,Getafe,1.0,0.0,Match Finished,2023,home_win
+Cadiz,Atletico Madrid,2.0,0.0,Match Finished,2023,home_win
+Granada CF,Real Sociedad,2.0,3.0,Match Finished,2023,away_win
+Girona,Osasuna,2.0,0.0,Match Finished,2023,home_win
+Alaves,Rayo Vallecano,1.0,0.0,Match Finished,2023,home_win
+Las Palmas,Athletic Club,0.0,2.0,Match Finished,2023,away_win
+Real Madrid,Celta Vigo,4.0,0.0,Match Finished,2023,home_win
+Real Betis,Villarreal,2.0,3.0,Match Finished,2023,away_win
+Almeria,Sevilla,2.0,2.0,Match Finished,2023,draw
+Real Sociedad,Cadiz,2.0,0.0,Match Finished,2023,home_win
+Mallorca,Granada CF,1.0,0.0,Match Finished,2023,home_win
+Osasuna,Real Madrid,2.0,4.0,Match Finished,2023,away_win
+Getafe,Girona,1.0,0.0,Match Finished,2023,home_win
+Athletic Club,Alaves,2.0,0.0,Match Finished,2023,home_win
+Sevilla,Celta Vigo,1.0,2.0,Match Finished,2023,away_win
+Las Palmas,Almeria,0.0,1.0,Match Finished,2023,away_win
+Villarreal,Valencia,1.0,0.0,Match Finished,2023,home_win
+Rayo Vallecano,Real Betis,2.0,0.0,Match Finished,2023,home_win
+Atletico Madrid,Barcelona,0.0,3.0,Match Finished,2023,away_win
+Cadiz,Granada CF,1.0,0.0,Match Finished,2023,home_win
+Getafe,Sevilla,0.0,1.0,Match Finished,2023,away_win
+Almeria,Osasuna,0.0,3.0,Match Finished,2023,away_win
+Valencia,Mallorca,0.0,0.0,Match Finished,2023,draw
+Barcelona,Las Palmas,1.0,0.0,Match Finished,2023,home_win
+Celta Vigo,Rayo Vallecano,0.0,0.0,Match Finished,2023,draw
+Girona,Real Betis,3.0,2.0,Match Finished,2023,home_win
+Alaves,Real Sociedad,0.0,1.0,Match Finished,2023,away_win
+Real Madrid,Athletic Club,2.0,0.0,Match Finished,2023,home_win
+Villarreal,Atletico Madrid,1.0,2.0,Match Finished,2023,away_win
+Real Betis,Celta Vigo,2.0,1.0,Match Finished,2023,home_win
+Atletico Madrid,Girona,3.0,1.0,Match Finished,2023,home_win
+Rayo Vallecano,Getafe,0.0,0.0,Match Finished,2023,draw
+Mallorca,Real Madrid,0.0,1.0,Match Finished,2023,away_win
+Cadiz,Barcelona,0.0,1.0,Match Finished,2023,away_win
+Las Palmas,Sevilla,0.0,2.0,Match Finished,2023,away_win
+Granada CF,Alaves,2.0,0.0,Match Finished,2023,home_win
+Athletic Club,Villarreal,1.0,1.0,Match Finished,2023,draw
+Real Sociedad,Almeria,2.0,2.0,Match Finished,2023,draw
+Osasuna,Valencia,0.0,1.0,Match Finished,2023,away_win
+Athletic Club,Granada CF,1.0,1.0,Match Finished,2023,draw
+Celta Vigo,Las Palmas,4.0,1.0,Match Finished,2023,home_win
+Rayo Vallecano,Osasuna,2.0,1.0,Match Finished,2023,home_win
+Valencia,Real Betis,1.0,2.0,Match Finished,2023,away_win
+Girona,Cadiz,4.0,1.0,Match Finished,2023,home_win
+Getafe,Real Sociedad,1.0,1.0,Match Finished,2023,draw
+Almeria,Villarreal,1.0,2.0,Match Finished,2023,away_win
+Alaves,Atletico Madrid,2.0,0.0,Match Finished,2023,home_win
+Real Madrid,Barcelona,3.0,2.0,Match Finished,2023,home_win
+Sevilla,Mallorca,2.0,1.0,Match Finished,2023,home_win
+Real Sociedad,Real Madrid,0.0,1.0,Match Finished,2023,away_win
+Las Palmas,Girona,0.0,2.0,Match Finished,2023,away_win
+Almeria,Getafe,1.0,3.0,Match Finished,2023,away_win
+Alaves,Celta Vigo,3.0,0.0,Match Finished,2023,home_win
+Atletico Madrid,Athletic Club,3.0,1.0,Match Finished,2023,home_win
+Cadiz,Mallorca,1.0,1.0,Match Finished,2023,draw
+Granada CF,Osasuna,3.0,0.0,Match Finished,2023,home_win
+Villarreal,Rayo Vallecano,3.0,0.0,Match Finished,2023,home_win
+Real Betis,Sevilla,1.0,1.0,Match Finished,2023,draw
+Barcelona,Valencia,4.0,2.0,Match Finished,2023,home_win
+Getafe,Athletic Club,0.0,2.0,Match Finished,2023,away_win
+Real Sociedad,Las Palmas,2.0,0.0,Match Finished,2023,home_win
+Real Madrid,Cadiz,3.0,0.0,Match Finished,2023,home_win
+Girona,Barcelona,4.0,2.0,Match Finished,2023,home_win
+Mallorca,Atletico Madrid,0.0,1.0,Match Finished,2023,away_win
+Osasuna,Real Betis,0.0,2.0,Match Finished,2023,away_win
+Celta Vigo,Villarreal,3.0,2.0,Match Finished,2023,home_win
+Valencia,Alaves,0.0,1.0,Match Finished,2023,away_win
+Rayo Vallecano,Almeria,0.0,1.0,Match Finished,2023,away_win
+Sevilla,Granada CF,3.0,0.0,Match Finished,2023,home_win
+Alaves,Girona,2.0,2.0,Match Finished,2023,draw
+Mallorca,Las Palmas,1.0,0.0,Match Finished,2023,home_win
+Villarreal,Sevilla,3.0,2.0,Match Finished,2023,home_win
+Granada CF,Real Madrid,0.0,4.0,Match Finished,2023,away_win
+Athletic Club,Osasuna,2.0,2.0,Match Finished,2023,draw
+Cadiz,Getafe,1.0,0.0,Match Finished,2023,home_win
+Atletico Madrid,Celta Vigo,1.0,0.0,Match Finished,2023,home_win
+Valencia,Rayo Vallecano,0.0,0.0,Match Finished,2023,draw
+Real Betis,Almeria,3.0,2.0,Match Finished,2023,home_win
+Barcelona,Real Sociedad,2.0,0.0,Match Finished,2023,home_win
+Osasuna,Mallorca,1.0,1.0,Match Finished,2023,draw
+Real Madrid,Alaves,5.0,0.0,Match Finished,2023,home_win
+Girona,Villarreal,0.0,1.0,Match Finished,2023,away_win
+Sevilla,Cadiz,0.0,1.0,Match Finished,2023,away_win
+Rayo Vallecano,Granada CF,2.0,1.0,Match Finished,2023,home_win
+Celta Vigo,Athletic Club,2.0,1.0,Match Finished,2023,home_win
+Getafe,Atletico Madrid,0.0,3.0,Match Finished,2023,away_win
+Las Palmas,Real Betis,2.0,2.0,Match Finished,2023,draw
+Almeria,Barcelona,0.0,2.0,Match Finished,2023,away_win
+Real Sociedad,Valencia,1.0,0.0,Match Finished,2023,home_win
+Alaves,Getafe,1.0,0.0,Match Finished,2023,home_win
+Athletic Club,Sevilla,2.0,0.0,Match Finished,2023,home_win
+Atletico Madrid,Osasuna,1.0,4.0,Match Finished,2023,away_win
+Barcelona,Rayo Vallecano,3.0,0.0,Match Finished,2023,home_win
+Real Betis,Real Sociedad,0.0,2.0,Match Finished,2023,away_win
+Cadiz,Las Palmas,0.0,0.0,Match Finished,2023,draw
+Mallorca,Almeria,2.0,2.0,Match Finished,2023,draw
+Granada CF,Celta Vigo,1.0,2.0,Match Finished,2023,away_win
+Valencia,Girona,1.0,3.0,Match Finished,2023,away_win
+Villarreal,Real Madrid,4.0,4.0,Match Finished,2023,draw
+Girona,Granada CF,7.0,0.0,Match Finished,2023,home_win
+Osasuna,Villarreal,1.0,1.0,Match Finished,2023,draw
+Real Sociedad,Atletico Madrid,0.0,2.0,Match Finished,2023,away_win
+Almeria,Cadiz,6.0,1.0,Match Finished,2023,home_win
+Rayo Vallecano,Athletic Club,0.0,1.0,Match Finished,2023,away_win
+Real Madrid,Real Betis,0.0,0.0,Match Finished,2023,draw
+Getafe,Mallorca,1.0,2.0,Match Finished,2023,away_win
+Celta Vigo,Valencia,2.0,2.0,Match Finished,2023,draw
+Las Palmas,Alaves,1.0,1.0,Match Finished,2023,draw
+Sevilla,Barcelona,1.0,2.0,Match Finished,2023,away_win
+Athletic Club,Getafe,1.0,1.0,Match Finished,2024,draw
+Real Betis,Girona,1.0,1.0,Match Finished,2024,draw
+Celta Vigo,Alaves,2.0,1.0,Match Finished,2024,home_win
+Las Palmas,Sevilla,2.0,2.0,Match Finished,2024,draw
+Osasuna,Leganes,1.0,1.0,Match Finished,2024,draw
+Valencia,Barcelona,1.0,2.0,Match Finished,2024,away_win
+Real Sociedad,Rayo Vallecano,1.0,2.0,Match Finished,2024,away_win
+Mallorca,Real Madrid,1.0,1.0,Match Finished,2024,draw
+Valladolid,Espanyol,1.0,0.0,Match Finished,2024,home_win
+Villarreal,Atletico Madrid,2.0,2.0,Match Finished,2024,draw
+Celta Vigo,Valencia,3.0,1.0,Match Finished,2024,home_win
+Sevilla,Villarreal,1.0,2.0,Match Finished,2024,away_win
+Osasuna,Mallorca,1.0,0.0,Match Finished,2024,home_win
+Barcelona,Athletic Club,2.0,1.0,Match Finished,2024,home_win
+Getafe,Rayo Vallecano,0.0,0.0,Match Finished,2024,draw
+Espanyol,Real Sociedad,0.0,1.0,Match Finished,2024,away_win
+Real Madrid,Valladolid,3.0,0.0,Match Finished,2024,home_win
+Leganes,Las Palmas,2.0,1.0,Match Finished,2024,home_win
+Alaves,Real Betis,0.0,0.0,Match Finished,2024,draw
+Atletico Madrid,Girona,3.0,0.0,Match Finished,2024,home_win
+Villarreal,Celta Vigo,4.0,3.0,Match Finished,2024,home_win
+Mallorca,Sevilla,0.0,0.0,Match Finished,2024,draw
+Rayo Vallecano,Barcelona,1.0,2.0,Match Finished,2024,away_win
+Athletic Club,Valencia,1.0,0.0,Match Finished,2024,home_win
+Valladolid,Leganes,0.0,0.0,Match Finished,2024,draw
+Real Sociedad,Alaves,1.0,2.0,Match Finished,2024,away_win
+Atletico Madrid,Espanyol,0.0,0.0,Match Finished,2024,draw
+Girona,Osasuna,4.0,0.0,Match Finished,2024,home_win
+Las Palmas,Real Madrid,1.0,1.0,Match Finished,2024,draw
+Real Betis,Getafe,2.0,1.0,Match Finished,2024,home_win
+Barcelona,Valladolid,7.0,0.0,Match Finished,2024,home_win
+Athletic Club,Atletico Madrid,0.0,1.0,Match Finished,2024,away_win
+Espanyol,Rayo Vallecano,2.0,1.0,Match Finished,2024,home_win
+Valencia,Villarreal,1.0,1.0,Match Finished,2024,draw
+Leganes,Mallorca,0.0,1.0,Match Finished,2024,away_win
+Alaves,Las Palmas,2.0,0.0,Match Finished,2024,home_win
+Osasuna,Celta Vigo,3.0,2.0,Match Finished,2024,home_win
+Sevilla,Girona,0.0,2.0,Match Finished,2024,away_win
+Getafe,Real Sociedad,0.0,0.0,Match Finished,2024,draw
+Real Madrid,Real Betis,2.0,0.0,Match Finished,2024,home_win
+Real Betis,Leganes,2.0,0.0,Finished,2024,home_win
+Mallorca,Villarreal,1.0,2.0,Match Finished,2024,away_win
+Espanyol,Alaves,3.0,2.0,Match Finished,2024,home_win
+Sevilla,Getafe,1.0,0.0,Match Finished,2024,home_win
+Real Sociedad,Real Madrid,0.0,2.0,Match Finished,2024,away_win
+Celta Vigo,Valladolid,3.0,1.0,Match Finished,2024,home_win
+Girona,Barcelona,1.0,4.0,Match Finished,2024,away_win
+Las Palmas,Athletic Club,2.0,3.0,Match Finished,2024,away_win
+Atletico Madrid,Valencia,3.0,0.0,Match Finished,2024,home_win
+Rayo Vallecano,Osasuna,3.0,1.0,Match Finished,2024,home_win
+Alaves,Sevilla,2.0,1.0,Match Finished,2024,home_win
+Valladolid,Real Sociedad,0.0,0.0,Match Finished,2024,draw
+Osasuna,Las Palmas,2.0,1.0,Match Finished,2024,home_win
+Valencia,Girona,2.0,0.0,Match Finished,2024,home_win
+Real Madrid,Espanyol,4.0,1.0,Match Finished,2024,home_win
+Getafe,Leganes,1.0,1.0,Match Finished,2024,draw
+Athletic Club,Celta Vigo,3.0,1.0,Match Finished,2024,home_win
+Villarreal,Barcelona,1.0,5.0,Match Finished,2024,away_win
+Rayo Vallecano,Atletico Madrid,1.0,1.0,Match Finished,2024,draw
+Real Betis,Mallorca,1.0,2.0,Match Finished,2024,away_win
+Mallorca,Real Sociedad,1.0,0.0,Match Finished,2024,home_win
+Leganes,Athletic Club,,,Scheduled,2024,unknown
+Barcelona,Getafe,,,Scheduled,2024,unknown
+Girona,Rayo Vallecano,,,Scheduled,2024,unknown
+Sevilla,Valladolid,2.0,1.0,Match Finished,2024,home_win
+Espanyol,Villarreal,,,Scheduled,2024,unknown
+Celta Vigo,Atletico Madrid,,,Scheduled,2024,unknown
+Las Palmas,Real Betis,,,Scheduled,2024,unknown
+Valencia,Osasuna,0.0,0.0,Match Finished,2024,draw
+Real Madrid,Alaves,3.0,2.0,Match Finished,2024,home_win
+Athletic Club,Sevilla,,,Scheduled,2024,unknown
+Atletico Madrid,Real Madrid,,,Scheduled,2024,unknown
+Celta Vigo,Girona,,,Scheduled,2024,unknown
+Real Sociedad,Valencia,,,Scheduled,2024,unknown
+Osasuna,Barcelona,,,Scheduled,2024,unknown
+Valladolid,Mallorca,,,Scheduled,2024,unknown
+Villarreal,Las Palmas,,,Scheduled,2024,unknown
+Getafe,Alaves,,,Scheduled,2024,unknown
+Rayo Vallecano,Leganes,,,Scheduled,2024,unknown
+Real Betis,Espanyol,,,Scheduled,2024,unknown
+Getafe,Osasuna,,,Scheduled,2024,unknown
+Real Madrid,Villarreal,,,Scheduled,2024,unknown
+Alaves,Barcelona,,,Scheduled,2024,unknown
+Leganes,Valencia,,,Scheduled,2024,unknown
+Espanyol,Mallorca,,,Scheduled,2024,unknown
+Girona,Athletic Club,,,Scheduled,2024,unknown
+Real Sociedad,Atletico Madrid,,,Scheduled,2024,unknown
+Sevilla,Real Betis,,,Scheduled,2024,unknown
+Las Palmas,Celta Vigo,,,Scheduled,2024,unknown
+Valladolid,Rayo Vallecano,,,Scheduled,2024,unknown
+Atletico Madrid,Leganes,,,Scheduled,2024,unknown
+Barcelona,Sevilla,,,Scheduled,2024,unknown
+Celta Vigo,Real Madrid,,,Scheduled,2024,unknown
+Girona,Real Sociedad,,,Scheduled,2024,unknown
+Mallorca,Rayo Vallecano,,,Scheduled,2024,unknown
+Alaves,Valladolid,,,Scheduled,2024,unknown
+Osasuna,Real Betis,,,Scheduled,2024,unknown
+Villarreal,Getafe,,,Scheduled,2024,unknown
+Valencia,Las Palmas,,,Scheduled,2024,unknown
+Athletic Club,Espanyol,,,Scheduled,2024,unknown
+Getafe,Valencia,,,Scheduled,2024,unknown
+Espanyol,Sevilla,,,Scheduled,2024,unknown
+Mallorca,Athletic Club,,,Scheduled,2024,unknown
+Real Betis,Atletico Madrid,,,Scheduled,2024,unknown
+Real Madrid,Barcelona,,,Scheduled,2024,unknown
+Leganes,Celta Vigo,,,Scheduled,2024,unknown
+Las Palmas,Girona,,,Scheduled,2024,unknown
+Real Sociedad,Osasuna,,,Scheduled,2024,unknown
+Valladolid,Villarreal,,,Scheduled,2024,unknown
+Rayo Vallecano,Alaves,,,Scheduled,2024,unknown
+Athletic Club,Real Betis,,,Scheduled,2024,unknown
+Atletico Madrid,Las Palmas,,,Scheduled,2024,unknown
+Celta Vigo,Getafe,,,Scheduled,2024,unknown
+Girona,Leganes,,,Scheduled,2024,unknown
+Osasuna,Valladolid,,,Scheduled,2024,unknown
+Alaves,Mallorca,,,Scheduled,2024,unknown
+Villarreal,Rayo Vallecano,,,Scheduled,2024,unknown
+Valencia,Real Madrid,,,Scheduled,2024,unknown
+Sevilla,Real Sociedad,,,Scheduled,2024,unknown
+Barcelona,Espanyol,,,Scheduled,2024,unknown
+Real Betis,Celta Vigo,,,Scheduled,2024,unknown
+Getafe,Girona,,,Scheduled,2024,unknown
+Leganes,Sevilla,,,Scheduled,2024,unknown
+Espanyol,Valencia,,,Scheduled,2024,unknown
+Valladolid,Athletic Club,,,Scheduled,2024,unknown
+Mallorca,Atletico Madrid,,,Scheduled,2024,unknown
+Real Sociedad,Barcelona,,,Scheduled,2024,unknown
+Real Madrid,Osasuna,,,Scheduled,2024,unknown
+Rayo Vallecano,Las Palmas,,,Scheduled,2024,unknown
+Villarreal,Alaves,,,Scheduled,2024,unknown
+Athletic Club,Real Sociedad,,,Scheduled,2024,unknown
+Getafe,Valladolid,,,Scheduled,2024,unknown
+Osasuna,Villarreal,,,Scheduled,2024,unknown
+Las Palmas,Mallorca,,,Scheduled,2024,unknown
+Leganes,Real Madrid,,,Scheduled,2024,unknown
+Celta Vigo,Barcelona,,,Scheduled,2024,unknown
+Valencia,Real Betis,,,Scheduled,2024,unknown
+Sevilla,Rayo Vallecano,,,Scheduled,2024,unknown
+Atletico Madrid,Alaves,,,Scheduled,2024,unknown
+Girona,Espanyol,,,Scheduled,2024,unknown
+Barcelona,Las Palmas,,,Scheduled,2024,unknown
+Mallorca,Valencia,,,Scheduled,2024,unknown
+Alaves,Leganes,,,Scheduled,2024,unknown
+Espanyol,Celta Vigo,,,Scheduled,2024,unknown
+Rayo Vallecano,Athletic Club,,,Scheduled,2024,unknown
+Valladolid,Atletico Madrid,,,Scheduled,2024,unknown
+Real Sociedad,Real Betis,,,Scheduled,2024,unknown
+Real Madrid,Getafe,,,Scheduled,2024,unknown
+Villarreal,Girona,,,Scheduled,2024,unknown
+Sevilla,Osasuna,,,Scheduled,2024,unknown
+Athletic Club,Villarreal,,,Scheduled,2024,unknown
+Atletico Madrid,Sevilla,,,Scheduled,2024,unknown
+Celta Vigo,Mallorca,,,Scheduled,2024,unknown
+Girona,Real Madrid,,,Scheduled,2024,unknown
+Las Palmas,Valladolid,,,Scheduled,2024,unknown
+Leganes,Real Sociedad,,,Scheduled,2024,unknown
+Real Betis,Barcelona,,,Scheduled,2024,unknown
+Valencia,Rayo Vallecano,,,Scheduled,2024,unknown
+Osasuna,Alaves,,,Scheduled,2024,unknown
+Getafe,Espanyol,,,Scheduled,2024,unknown
+Atletico Madrid,Getafe,,,Scheduled,2024,unknown
+Barcelona,Leganes,,,Scheduled,2024,unknown
+Rayo Vallecano,Real Madrid,,,Scheduled,2024,unknown
+Alaves,Athletic Club,,,Scheduled,2024,unknown
+Espanyol,Osasuna,,,Scheduled,2024,unknown
+Villarreal,Real Betis,,,Scheduled,2024,unknown
+Sevilla,Celta Vigo,,,Scheduled,2024,unknown
+Mallorca,Girona,,,Scheduled,2024,unknown
+Valladolid,Valencia,,,Scheduled,2024,unknown
+Real Sociedad,Las Palmas,,,Scheduled,2024,unknown
+Real Betis,Rayo Vallecano,,,Scheduled,2024,unknown
+Celta Vigo,Real Sociedad,,,Scheduled,2024,unknown
+Getafe,Mallorca,,,Scheduled,2024,unknown
+Girona,Valladolid,,,Scheduled,2024,unknown
+Real Madrid,Sevilla,,,Scheduled,2024,unknown
+Leganes,Villarreal,,,Scheduled,2024,unknown
+Osasuna,Athletic Club,,,Scheduled,2024,unknown
+Barcelona,Atletico Madrid,,,Scheduled,2024,unknown
+Valencia,Alaves,,,Scheduled,2024,unknown
+Las Palmas,Espanyol,,,Scheduled,2024,unknown
+Athletic Club,Real Madrid,,,Scheduled,2024,unknown
+Atletico Madrid,Osasuna,,,Scheduled,2024,unknown
+Real Sociedad,Villarreal,,,Scheduled,2024,unknown
+Sevilla,Valencia,,,Scheduled,2024,unknown
+Alaves,Girona,,,Scheduled,2024,unknown
+Espanyol,Leganes,,,Scheduled,2024,unknown
+Mallorca,Barcelona,,,Scheduled,2024,unknown
+Valladolid,Real Betis,,,Scheduled,2024,unknown
+Rayo Vallecano,Celta Vigo,,,Scheduled,2024,unknown
+Las Palmas,Getafe,,,Scheduled,2024,unknown
+Girona,Sevilla,,,Scheduled,2024,unknown
+Osasuna,Rayo Vallecano,,,Scheduled,2024,unknown
+Espanyol,Valladolid,,,Scheduled,2024,unknown
+Celta Vigo,Athletic Club,,,Scheduled,2024,unknown
+Leganes,Atletico Madrid,,,Scheduled,2024,unknown
+Getafe,Barcelona,,,Scheduled,2024,unknown
+Villarreal,Mallorca,,,Scheduled,2024,unknown
+Valencia,Real Sociedad,,,Scheduled,2024,unknown
+Real Madrid,Las Palmas,,,Scheduled,2024,unknown
+Real Betis,Alaves,,,Scheduled,2024,unknown
+Athletic Club,Leganes,,,Scheduled,2024,unknown
+Atletico Madrid,Villarreal,,,Scheduled,2024,unknown
+Barcelona,Valencia,,,Scheduled,2024,unknown
+Las Palmas,Osasuna,,,Scheduled,2024,unknown
+Alaves,Celta Vigo,,,Scheduled,2024,unknown
+Mallorca,Real Betis,,,Scheduled,2024,unknown
+Real Sociedad,Getafe,,,Scheduled,2024,unknown
+Rayo Vallecano,Girona,,,Scheduled,2024,unknown
+Valladolid,Real Madrid,,,Scheduled,2024,unknown
+Sevilla,Espanyol,,,Scheduled,2024,unknown
+Atletico Madrid,Mallorca,,,Scheduled,2024,unknown
+Getafe,Sevilla,,,Scheduled,2024,unknown
+Girona,Las Palmas,,,Scheduled,2024,unknown
+Osasuna,Real Sociedad,,,Scheduled,2024,unknown
+Villarreal,Valladolid,,,Scheduled,2024,unknown
+Leganes,Rayo Vallecano,,,Scheduled,2024,unknown
+Espanyol,Real Madrid,,,Scheduled,2024,unknown
+Real Betis,Athletic Club,,,Scheduled,2024,unknown
+Valencia,Celta Vigo,,,Scheduled,2024,unknown
+Barcelona,Alaves,,,Scheduled,2024,unknown
+Athletic Club,Girona,,,Scheduled,2024,unknown
+Mallorca,Osasuna,,,Scheduled,2024,unknown
+Rayo Vallecano,Valladolid,,,Scheduled,2024,unknown
+Las Palmas,Villarreal,,,Scheduled,2024,unknown
+Alaves,Getafe,,,Scheduled,2024,unknown
+Real Madrid,Atletico Madrid,,,Scheduled,2024,unknown
+Sevilla,Barcelona,,,Scheduled,2024,unknown
+Celta Vigo,Real Betis,,,Scheduled,2024,unknown
+Valencia,Leganes,,,Scheduled,2024,unknown
+Real Sociedad,Espanyol,,,Scheduled,2024,unknown
+Atletico Madrid,Celta Vigo,,,Scheduled,2024,unknown
+Barcelona,Rayo Vallecano,,,Scheduled,2024,unknown
+Real Betis,Real Sociedad,,,Scheduled,2024,unknown
+Osasuna,Real Madrid,,,Scheduled,2024,unknown
+Espanyol,Athletic Club,,,Scheduled,2024,unknown
+Girona,Getafe,,,Scheduled,2024,unknown
+Valladolid,Sevilla,,,Scheduled,2024,unknown
+Villarreal,Valencia,,,Scheduled,2024,unknown
+Mallorca,Las Palmas,,,Scheduled,2024,unknown
+Leganes,Alaves,,,Scheduled,2024,unknown
+Athletic Club,Valladolid,,,Scheduled,2024,unknown
+Celta Vigo,Osasuna,,,Scheduled,2024,unknown
+Rayo Vallecano,Villarreal,,,Scheduled,2024,unknown
+Alaves,Espanyol,,,Scheduled,2024,unknown
+Valencia,Atletico Madrid,,,Scheduled,2024,unknown
+Las Palmas,Barcelona,,,Scheduled,2024,unknown
+Getafe,Real Betis,,,Scheduled,2024,unknown
+Real Madrid,Girona,,,Scheduled,2024,unknown
+Sevilla,Mallorca,,,Scheduled,2024,unknown
+Real Sociedad,Leganes,,,Scheduled,2024,unknown
+Barcelona,Real Sociedad,,,Scheduled,2024,unknown
+Real Betis,Real Madrid,,,Scheduled,2024,unknown
+Osasuna,Valencia,,,Scheduled,2024,unknown
+Rayo Vallecano,Sevilla,,,Scheduled,2024,unknown
+Atletico Madrid,Athletic Club,,,Scheduled,2024,unknown
+Girona,Celta Vigo,,,Scheduled,2024,unknown
+Leganes,Getafe,,,Scheduled,2024,unknown
+Valladolid,Las Palmas,,,Scheduled,2024,unknown
+Mallorca,Alaves,,,Scheduled,2024,unknown
+Villarreal,Espanyol,,,Scheduled,2024,unknown
+Athletic Club,Mallorca,,,Scheduled,2024,unknown
+Barcelona,Osasuna,,,Scheduled,2024,unknown
+Real Betis,Las Palmas,,,Scheduled,2024,unknown
+Celta Vigo,Leganes,,,Scheduled,2024,unknown
+Real Sociedad,Sevilla,,,Scheduled,2024,unknown
+Valencia,Valladolid,,,Scheduled,2024,unknown
+Alaves,Villarreal,,,Scheduled,2024,unknown
+Espanyol,Girona,,,Scheduled,2024,unknown
+Getafe,Atletico Madrid,,,Scheduled,2024,unknown
+Real Madrid,Rayo Vallecano,,,Scheduled,2024,unknown
+Atletico Madrid,Barcelona,,,Scheduled,2024,unknown
+Girona,Valencia,,,Scheduled,2024,unknown
+Rayo Vallecano,Real Sociedad,,,Scheduled,2024,unknown
+Sevilla,Athletic Club,,,Scheduled,2024,unknown
+Leganes,Real Betis,,,Scheduled,2024,unknown
+Valladolid,Celta Vigo,,,Scheduled,2024,unknown
+Osasuna,Getafe,,,Scheduled,2024,unknown
+Villarreal,Real Madrid,,,Scheduled,2024,unknown
+Las Palmas,Alaves,,,Scheduled,2024,unknown
+Mallorca,Espanyol,,,Scheduled,2024,unknown
+Athletic Club,Osasuna,,,Scheduled,2024,unknown
+Barcelona,Girona,,,Scheduled,2024,unknown
+Real Betis,Sevilla,,,Scheduled,2024,unknown
+Celta Vigo,Las Palmas,,,Scheduled,2024,unknown
+Getafe,Villarreal,,,Scheduled,2024,unknown
+Real Sociedad,Valladolid,,,Scheduled,2024,unknown
+Alaves,Rayo Vallecano,,,Scheduled,2024,unknown
+Espanyol,Atletico Madrid,,,Scheduled,2024,unknown
+Valencia,Mallorca,,,Scheduled,2024,unknown
+Real Madrid,Leganes,,,Scheduled,2024,unknown
+Barcelona,Real Betis,,,Scheduled,2024,unknown
+Real Madrid,Valencia,,,Scheduled,2024,unknown
+Las Palmas,Real Sociedad,,,Scheduled,2024,unknown
+Leganes,Osasuna,,,Scheduled,2024,unknown
+Villarreal,Athletic Club,,,Scheduled,2024,unknown
+Sevilla,Atletico Madrid,,,Scheduled,2024,unknown
+Mallorca,Celta Vigo,,,Scheduled,2024,unknown
+Valladolid,Getafe,,,Scheduled,2024,unknown
+Girona,Alaves,,,Scheduled,2024,unknown
+Rayo Vallecano,Espanyol,,,Scheduled,2024,unknown
+Athletic Club,Rayo Vallecano,,,Scheduled,2024,unknown
+Atletico Madrid,Valladolid,,,Scheduled,2024,unknown
+Real Betis,Villarreal,,,Scheduled,2024,unknown
+Getafe,Las Palmas,,,Scheduled,2024,unknown
+Alaves,Real Madrid,,,Scheduled,2024,unknown
+Leganes,Barcelona,,,Scheduled,2024,unknown
+Osasuna,Girona,,,Scheduled,2024,unknown
+Real Sociedad,Mallorca,,,Scheduled,2024,unknown
+Valencia,Sevilla,,,Scheduled,2024,unknown
+Celta Vigo,Espanyol,,,Scheduled,2024,unknown
+Barcelona,Celta Vigo,,,Scheduled,2024,unknown
+Rayo Vallecano,Valencia,,,Scheduled,2024,unknown
+Espanyol,Getafe,,,Scheduled,2024,unknown
+Real Madrid,Athletic Club,,,Scheduled,2024,unknown
+Las Palmas,Atletico Madrid,,,Scheduled,2024,unknown
+Girona,Real Betis,,,Scheduled,2024,unknown
+Valladolid,Osasuna,,,Scheduled,2024,unknown
+Villarreal,Real Sociedad,,,Scheduled,2024,unknown
+Sevilla,Alaves,,,Scheduled,2024,unknown
+Mallorca,Leganes,,,Scheduled,2024,unknown
+Athletic Club,Las Palmas,,,Scheduled,2024,unknown
+Atletico Madrid,Rayo Vallecano,,,Scheduled,2024,unknown
+Barcelona,Mallorca,,,Scheduled,2024,unknown
+Real Betis,Valladolid,,,Scheduled,2024,unknown
+Celta Vigo,Villarreal,,,Scheduled,2024,unknown
+Getafe,Real Madrid,,,Scheduled,2024,unknown
+Osasuna,Sevilla,,,Scheduled,2024,unknown
+Alaves,Real Sociedad,,,Scheduled,2024,unknown
+Leganes,Girona,,,Scheduled,2024,unknown
+Valencia,Espanyol,,,Scheduled,2024,unknown
+Girona,Mallorca,,,Scheduled,2024,unknown
+Las Palmas,Valencia,,,Scheduled,2024,unknown
+Alaves,Atletico Madrid,,,Scheduled,2024,unknown
+Espanyol,Real Betis,,,Scheduled,2024,unknown
+Real Sociedad,Athletic Club,,,Scheduled,2024,unknown
+Valladolid,Barcelona,,,Scheduled,2024,unknown
+Real Madrid,Celta Vigo,,,Scheduled,2024,unknown
+Rayo Vallecano,Getafe,,,Scheduled,2024,unknown
+Villarreal,Osasuna,,,Scheduled,2024,unknown
+Sevilla,Leganes,,,Scheduled,2024,unknown
+Atletico Madrid,Real Sociedad,,,Scheduled,2024,unknown
+Barcelona,Real Madrid,,,Scheduled,2024,unknown
+Real Betis,Osasuna,,,Scheduled,2024,unknown
+Celta Vigo,Sevilla,,,Scheduled,2024,unknown
+Girona,Villarreal,,,Scheduled,2024,unknown
+Mallorca,Valladolid,,,Scheduled,2024,unknown
+Las Palmas,Rayo Vallecano,,,Scheduled,2024,unknown
+Valencia,Getafe,,,Scheduled,2024,unknown
+Athletic Club,Alaves,,,Scheduled,2024,unknown
+Leganes,Espanyol,,,Scheduled,2024,unknown
+Alaves,Valencia,,,Scheduled,2024,unknown
+Espanyol,Barcelona,,,Scheduled,2024,unknown
+Getafe,Athletic Club,,,Scheduled,2024,unknown
+Osasuna,Atletico Madrid,,,Scheduled,2024,unknown
+Rayo Vallecano,Real Betis,,,Scheduled,2024,unknown
+Real Sociedad,Celta Vigo,,,Scheduled,2024,unknown
+Valladolid,Girona,,,Scheduled,2024,unknown
+Real Madrid,Mallorca,,,Scheduled,2024,unknown
+Sevilla,Las Palmas,,,Scheduled,2024,unknown
+Villarreal,Leganes,,,Scheduled,2024,unknown
+Atletico Madrid,Real Betis,,,Scheduled,2024,unknown
+Barcelona,Villarreal,,,Scheduled,2024,unknown
+Celta Vigo,Rayo Vallecano,,,Scheduled,2024,unknown
+Valencia,Athletic Club,,,Scheduled,2024,unknown
+Mallorca,Getafe,,,Scheduled,2024,unknown
+Real Sociedad,Girona,,,Scheduled,2024,unknown
+Sevilla,Real Madrid,,,Scheduled,2024,unknown
+Valladolid,Alaves,,,Scheduled,2024,unknown
+Las Palmas,Leganes,,,Scheduled,2024,unknown
+Osasuna,Espanyol,,,Scheduled,2024,unknown
+Athletic Club,Barcelona,,,Scheduled,2024,unknown
+Real Betis,Valencia,,,Scheduled,2024,unknown
+Real Madrid,Real Sociedad,,,Scheduled,2024,unknown
+Alaves,Osasuna,,,Scheduled,2024,unknown
+Leganes,Valladolid,,,Scheduled,2024,unknown
+Espanyol,Las Palmas,,,Scheduled,2024,unknown
+Girona,Atletico Madrid,,,Scheduled,2024,unknown
+Getafe,Celta Vigo,,,Scheduled,2024,unknown
+Rayo Vallecano,Mallorca,,,Scheduled,2024,unknown
+Villarreal,Sevilla,,,Scheduled,2024,unknown
